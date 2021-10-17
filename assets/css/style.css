@@ -11,3 +11,24 @@ body {
     font-weight: 300;
     color: #3a3a3a;
 }
+
+/* navbar - override bootstrap styling */
+
+
+.my-collapse {
+    flex-grow: 0;
+}
+
+.navbar-brand {
+    font-size: 250%;
+}
+
+
+/* hero image */
+
+.hero-img {
+    background-image: url('../images/4896_images.jpeg');
+    background-size: cover;
+    width: 600px;
+    height: 100%;
+}
