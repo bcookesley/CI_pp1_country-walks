@@ -3,13 +3,18 @@
 * {
     margin: 0;
     padding: 0;
-    border: 0;
+    border: none;
 }
 
 body {
     font-family: Poppins, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+    background-color: rgb(160, 160, 160);
 }
 
 /* navbar - override bootstrap styling */
@@ -27,8 +32,29 @@ body {
 /* hero image */
 
 .hero-img {
-    background-image: url('../images/4896_images.jpeg');
-    background-size: cover;
-    width: 600px;
-    height: 100%;
+    background: url('../images/countryside-walks-header.jpeg') no-repeat center center;
+    width: 100%;
+    height: 60vh;
 }
+
+.text-overlay {
+    font-size: 130%;
+    font-family: Poppins, sans-serif;
+    letter-spacing: 3px;
+
+    width: 600px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(107, 241, 107, 0.7);
+    border-radius: 6px;
+
+    bottom: 75px;
+    left: 50px;
+
+    position: absolute;
+
+}
+
