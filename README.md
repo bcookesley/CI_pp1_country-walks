@@ -7,7 +7,34 @@
 <br>
 <br>
 
-## Project Goals
+# Project Goals
+
+<br>
+
+### User Goals
+- Finding a place where you can see walking routes done by others
+- Seeing photos and images taken on the walking routes shown
+- Find any walking events happening 
+- Locate a community of walkers
+
+<br>
+
+### Site Owner Goals
+- Provide useful information on walking routes for safety and wellbeing of anyone not familiar with the areas covered
+- Boost a community of walkers and ramblers 
+- Display a walking challenges to suit a variety of different experiences 
+
+<br>
+<hr>
+
+## User Experience 
+<hr>
+<br>
+
+### Target Audience
+<br>
+
+### User Requirements and Expectations
 
 <br>
 

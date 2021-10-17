@@ -32,6 +32,10 @@ body {
     color: red;
 }
 
+#my-nav-hover a {
+    padding: 15px;
+}
+
 
 /* hero image */
 
@@ -45,6 +49,7 @@ body {
     font-size: 130%;
     font-family: Poppins, sans-serif;
     letter-spacing: 3px;
+    text-shadow: 2px  0.5px seagreen;
 
     width: 950px;
     height: 100px;
