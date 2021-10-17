@@ -28,6 +28,10 @@ body {
     font-size: 250%;
 }
 
+#my-nav-hover a:hover {
+    color: red;
+}
+
 
 /* hero image */
 
@@ -42,19 +46,36 @@ body {
     font-family: Poppins, sans-serif;
     letter-spacing: 3px;
 
-    width: 600px;
-    height: 200px;
+    width: 950px;
+    height: 100px;
 
-    padding-top: 40px;
+    padding-top: 30px;
     padding-left: 10px;
 
     background-color: rgba(107, 241, 107, 0.7);
     border-radius: 6px;
 
-    bottom: 75px;
+    bottom: 150px;
     left: 50px;
 
     position: absolute;
 
+}
+
+/* Opening Statement */
+
+.statement {
+    width: 66%;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 6px;
+
+    margin: auto;
+    padding: 20px 10px 20px 10px;
+
+    position: relative;
+    top: 100px;
+
+    background-color: rgba(86, 121, 86, 0.7);
 }
 
