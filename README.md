@@ -25,16 +25,29 @@
 - Display a walking challenges to suit a variety of different experiences 
 
 <br>
-<hr>
+
 
 ## User Experience 
 <hr>
 <br>
 
 ### Target Audience
+- People who enjoy a good walk 
+- People looking to find new walking routes
+- People looking for a community of walkers and ramblers
+- People who enjoy the counrtyside and enjoy taking landscape photos
+
 <br>
 
 ### User Requirements and Expectations
+- Easy to read and relevant information 
+- Easily navigate their way through the website 
+- Visually appealing design that is clean and inviting and is responsive to any device they're on
+- Easy to read information
+- Links to events and social media pages 
+- Easily contact someone related to the website
+- Accessibility
+
 
 <br>
 
@@ -64,3 +77,86 @@
 - As a site owner, I want users to be able to find and see walking routes they could try for themselves
 
 <br>
+
+### Wireframes
+
+<details><summary><strong>Home Page</strong></summary>
+
+<details><summary>Home - Desktop</summary>
+<image src="docs/wireframes/CW-Home-Desktop.png">
+</details>
+
+<details><summary>Home - Tablet</summary>
+<image src="docs/wireframes/CW-Home-Tablet.png">
+</details>
+
+<details><summary>Home - Mobile</summary>
+<image src="docs/wireframes/CW-Home-Mobile.png">
+</details>
+
+</details>
+
+<details><summary><strong>About Page</strong></summary>
+
+<details><summary>About - Desktop</summary>
+<image src="docs/wireframes/CW-About-Desktop.png">
+</details>
+
+<details><summary>About - Tablet</summary>
+<image src="docs/wireframes/CW-About-Tablet.png">
+</details>
+
+<details><summary>About - Mobile</summary>
+<image src="docs/wireframes/CW-About-Mobile.png">
+</details>
+
+</details>
+
+<details><summary><strong>Walks Page</strong></summary>
+
+<details><summary>Walks - Desktop</summary>
+<image src="docs/wireframes/CW-Walks-Desktop.png">
+</details>
+
+<details><summary>Walks - Tablet</summary>
+<image src="docs/wireframes/CW-Walks-Tablet.png">
+</details>
+
+<details><summary>Walks - Mobile</summary>
+<image src="docs/wireframes/CW-Walks-Mobile.png">
+</details>
+
+</details>
+
+<details><summary><strong>Group Walks Page</strong></summary>
+
+<details><summary>Group Walks - Desktop</summary>
+<image src="docs/wireframes/CW-GroupWalks-Desktop.png">
+</details>
+
+<details><summary>Group Walks- Tablet</summary>
+<image src="docs/wireframes/CW-GroupWalks-Tablet.png">
+</details>
+
+<details><summary>Group Walks - Mobile</summary>
+<image src="docs/wireframes/CW-GroupWalks-Mobile.png">
+</details>
+
+</details>
+
+<details><summary><strong>Sign Up Page</strong></summary>
+
+<details><summary>Sign Up - Desktop</summary>
+<image src="docs/wireframes/CW-SignUp-Desktop.png">
+</details>
+
+<details><summary>Sign Up - Tablet</summary>
+<image src="docs/wireframes/CW-SignUp-Tablet.png">
+</details>
+
+<details><summary>Sign Up - Mobile</summary>
+<image src="docs/wireframes/CW-SignUp-Mobile.png">
+</details>
+
+</details>
+
