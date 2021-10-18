@@ -1,4 +1,4 @@
-# Country Walks
+# <strong>Country Walks</strong>
 
 (Developer: Ben Cookesley)
 
@@ -6,6 +6,26 @@
 <br>
 <br>
 <br>
+
+# Table of Contents
+
+1. [Project Goals](#project-goals)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colour](#colour)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+
+
+
+
 
 # Project Goals
 
@@ -78,6 +98,25 @@
 
 <br>
 
+## Design
+<hr>
+
+### Design Choices
+
+<br>
+
+### Colour
+
+<br>
+
+### Fonts 
+
+<br>
+
+### Structure
+
+<br>
+
 ### Wireframes
 
 <details><summary><strong>Home Page</strong></summary>
@@ -96,7 +135,7 @@
 
 </details>
 
-<details><summary><strong>About Page</strong></summary>
+<details><summary><strong>About Us Page</strong></summary>
 
 <details><summary>About - Desktop</summary>
 <image src="docs/wireframes/CW-About-Desktop.png">
