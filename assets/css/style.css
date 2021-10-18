@@ -40,9 +40,12 @@ body {
 /* hero image */
 
 .hero-img {
-    background: url('../images/countryside-walks-header.jpeg') no-repeat center center;
+    background: url('../images/luca-micheli-r9RW20TrQ0Y-unsplash.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
     width: 100%;
-    height: 60vh;
+    height: 650px;
+    margin: 0 auto;
 }
 
 .text-overlay {
@@ -60,8 +63,7 @@ body {
     background-color: rgba(107, 241, 107, 0.7);
     border-radius: 6px;
 
-    bottom: 150px;
-    left: 50px;
+    margin: auto;
 
     position: absolute;
 
@@ -82,5 +84,18 @@ body {
     top: 100px;
 
     background-color: rgba(86, 121, 86, 0.7);
+}
+
+/* next group walk section */ 
+
+#nxt-big-event {
+    width: 66%;
+    height: 400px;
+    background-color: red;
+    position: relative;
+    margin: 0 auto;
+    top: 175px;
+
+    border-radius: 6px;;
 }
 
