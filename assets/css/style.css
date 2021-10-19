@@ -9,16 +9,15 @@
 body {
     font-family: Poppins, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #E7DE8A;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
-    background-color: rgb(160, 160, 160);
+    background-color: #D0f09B;
 }
 
 /* navbar - override bootstrap styling */
-
 
 #head-text {
     color: rgba(207, 147, 34, 0.7);
@@ -77,8 +76,12 @@ body {
 }
 
 #box-size {
-    background-position: center;
-    max-height: 80vh;
+    width: 100%;
+    height: 500px;
+}
+
+#box-size img {
+    background: contain;
 }
 
 /* Opening Statement */
@@ -86,7 +89,7 @@ body {
 .statement {
     width: 66%;
     height: 250px;
-    border: 1px solid black;
+    border: 1px solid #E7DE8A;
     border-radius: 6px;
 
     margin: auto;
@@ -95,7 +98,7 @@ body {
     position: relative;
     top: 100px;
 
-    background-color: rgba(86, 121, 86, 0.7);
+    background-color: #253019;
 }
 
 /* next group walk section */ 
@@ -143,5 +146,18 @@ body {
     margin: 0;
     padding: 4%;
     color: #3a3a3a;
+}
+
+/* Gallery section on About page */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
 }
 
