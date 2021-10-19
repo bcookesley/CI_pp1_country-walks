@@ -22,6 +22,11 @@
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks & Tools](#frameworks-and-tools)
+5. [Credits](#credits)
+6. [Acknowledgements](#acknowledgements)
 
 
 
@@ -199,3 +204,49 @@
 
 </details>
 
+<br>
+
+## Technologies Used 
+
+<hr>
+
+### Languages 
+- HTML
+- CSS
+
+<br>
+
+### Frameworks & Tools
+- Bootstrap V5.1
+- Git
+- Github
+- Gitpod
+- Font Awesome V 5.15.4
+- Google Fonts
+- Balsamiq
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## Credits 
+
+<br>
+
+
+## Acknowledgements
+
+I would like to give my thanks to:
+
+- Mo Shami for the guidance and support he offered through this
+- To my loving partner Cazz Pickles for her support and inspiration she gave for the project
+- All the people at Code institute 
+- And to my cat Zuzu for keeping me company
