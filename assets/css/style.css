@@ -195,14 +195,29 @@ body {
     border-radius: 50%;
 }
 
+/* about us information */
+
+#info-main {
+    padding: 100px;
+}
+
+.about-us {
+    width: 66%;
+    height: 250px;
+    border: 1px solid #E7DE8A;
+    border-radius: 6px;
+    background-color: #253019;
+}
+
 
 
 /* Media queries */
 
 /* for small screen sizes */
 
-@media screen and (max-width: 1200px) {
-    .statement {
-        height: 55vh; 
+@media screen and (max-width: 320px) {
+
+    .navbar-brand {
+        margin-right: 0;
     }
 }
