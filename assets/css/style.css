@@ -142,21 +142,9 @@ body {
     box-sizing: border-box;
 }
 
-div>h2,
-h4 {
+div > h2, h4 {
     color: white;
 }
-
-
-/*
-
-.bg-image-gw {
-    margin-top: 10%;
-    background: #3a3a3a;
-    opacity: 0;
-}
-
-*/
 
 /* Footer section */
 
@@ -174,11 +162,12 @@ footer {
 
 .social-links h3 {
     display: inline;
+    padding-bottom: 10px;
 }
 
 .social-links i {
     font-size: 160%;
-    padding: 4%;
+    margin: 35px 100px 10px 20px;
     color: #E7DE8A;
 }
 
