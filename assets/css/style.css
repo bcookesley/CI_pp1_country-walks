@@ -89,7 +89,6 @@ body {
 
 }
 
-
 #box-size {
     width: 100%;
 }
@@ -349,14 +348,32 @@ footer {
 
 @media screen and (max-width: 320px) {
 
+    #head-text {
+        font-size: 100%;
+        margin-left: 5px;
+    }
+
+    #nxt-big-event {
+        margin-top: 150px;
+    }
+
     #nxt-big-event > div {
-        width: 100vw;
+        width: 100%;
         height: 200px;
+        font-size: 80%;
     }
 
     .statement {
         width: 100%;
-        height: 500px;
+        height: 300px;
+    }
+
+    .statement > h3 {
+        font-size: 80%;
+    }
+
+    .statement > p {
+        font-size: 60%;
     }
 
 }
