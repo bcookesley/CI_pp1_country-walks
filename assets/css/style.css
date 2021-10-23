@@ -384,4 +384,8 @@ footer {
         font-size: 100%;
     }
 
+    .social-links i {
+        margin: 10px 20px 5px 20px;
+    }
+
 }
