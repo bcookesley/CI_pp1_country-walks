@@ -110,7 +110,7 @@ body {
     padding: 20px 10px 20px 10px;
 
     position: relative;
-    top: 100px;
+    top: 50px;
 
     background-color: #253019;
 }
@@ -127,7 +127,7 @@ body {
     width: 100%;
     height: 400px;
     overflow: hidden;
-    margin-top: 20%;
+    margin-top: 5%;
 }
 
 #nxt-big-event div {
@@ -179,7 +179,7 @@ footer {
 .social-links i {
     font-size: 160%;
     padding: 4%;
-    color: #3a3a3a;
+    color: #E7DE8A;
 }
 
 /* About Us Page */
@@ -357,15 +357,22 @@ footer {
         margin-top: 150px;
     }
 
-    #nxt-big-event > div {
+    #nxt-big-event div {
         width: 100%;
         height: 200px;
+    }
+
+    #nxt-big-event h2 {
+        font-size: 100%;
+    }
+
+    #nxt-big-event h4 {
         font-size: 80%;
     }
 
     .statement {
         width: 100%;
-        height: 300px;
+        height: 250px;
     }
 
     .statement > h3 {
@@ -374,6 +381,18 @@ footer {
 
     .statement > p {
         font-size: 60%;
+    }
+
+    .social-links {
+        margin-top: 15px;;
+    }
+
+    footer {
+        height: 80px;
+    }
+
+    .social-links h3 {
+        font-size: 100%;
     }
 
 }
