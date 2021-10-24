@@ -193,8 +193,8 @@ footer {
 }
 
 .about-us {
-    width: 66%;
-    height: 250px;
+    width: 90%;
+    height: 400px;
     border: 1px solid #E7DE8A;
     border-radius: 6px;
     background-color: #253019;
@@ -204,10 +204,12 @@ footer {
 
 #walks-list > div > h3 {
     margin-left: 30px;
+    color: #253019;
 }
 
 #walks-list > div > p {
     margin-left: 30px;
+    color: #253019;
 }
 
 #most-popular {
@@ -231,12 +233,14 @@ footer {
 }
 
 .image-left > div iframe {
-    width: 300px;
+    width: 200px;
     height: 300px;
     position: absolute;
+    margin-left: 2%;
 }
 
 #bg-nav-inpage {
+    width: 100%;
     background-color: #E7DE8A;
     padding-bottom: 5%;
 }
@@ -356,6 +360,8 @@ footer {
 
 @media screen and (max-width: 320px) {
 
+    /* home page */
+
     #head-text {
         font-size: 100%;
         margin-left: 5px;
@@ -405,6 +411,78 @@ footer {
 
     .social-links i {
         margin: 10px 20px 5px 20px;
+    }
+
+    /* about page */
+
+    .hero-img {
+        width: 100vw;
+        height: 300px;
+    }
+
+    .text-overlay {
+        width: 80vw;
+        height: 75px;
+    }
+
+    .text-overlay h2 {
+        font-size: 60%;
+    }
+
+    #photos {
+        column-count: 2;
+    }
+
+    #info-main {
+        padding: 20px 0 20px 0;
+    }
+
+    .about-us {
+        width: 100vw;
+        height: 300px;
+    }
+
+    .about-us h3 {
+        font-size: 80%;
+    }
+
+    .about-us p {
+        font-size: 60%;
+    }
+
+    /* walks page */
+    
+    .mp-info {
+        height: 100px;
+    }
+
+    .image-left img {
+        width: 100px;
+        height: 100px;
+    }
+
+    .image-left > div iframe {
+        width: 50px;
+        height: 100px;
+    }
+
+    #walks-list > div > h3 {
+        font-size: 80%;
+        margin-left: 20px;
+    }
+    
+    #walks-list > div > p {
+        font-size: 60%;
+        margin-left: 20px;
+    }
+
+    .inpage-nav a {
+        font-size: 50%;
+        margin-left: 10px;
+    }
+
+    .inpage-nav {
+        margin-top: 10px;
     }
 
 }
