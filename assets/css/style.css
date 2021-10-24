@@ -72,23 +72,20 @@ body {
     font-size: 130%;
     font-family: Poppins, sans-serif;
     letter-spacing: 3px;
-    text-shadow: 2px 0.5px seagreen;
-
-    width: 950px;
+    text-align: center;
+    padding-top: 20px;
+    width: 80%;
     height: 100px;
 
-    padding-top: 30px;
-    padding-left: 10px;
-
-    background-color: rgba(107, 241, 107, 0.7);
+    background-color: rgba(37, 48, 25, 0.7);
+    border: 2px solid #E7DE8A;
     border-radius: 6px;
 
-    margin: auto;
-
-    position: absolute;
+    margin: 0 auto;
+    margin-top: 100px;
 
 }
-
+/*rgba(107, 241, 107, 0.7)*/
 #box-size {
     width: 100%;
 }
@@ -102,7 +99,7 @@ body {
 
 .statement {
     width: 66%;
-    height: 500px;
+    height: 350px;
     border: 1px solid #E7DE8A;
     border-radius: 6px;
 
@@ -115,8 +112,12 @@ body {
     background-color: #253019;
 }
 
-.statement>h3 {
+.statement > h3 {
     padding-bottom: 20px;
+}
+
+.statement p {
+    padding-bottom: 10px;
 }
 
 /* next group walk section */
@@ -131,20 +132,18 @@ body {
 }
 
 #nxt-big-event div {
-    color: #fafafa;
+    color: #E7DE8A;
     background-color: rgba(0, 0, 0, .6);
     width: 50%;
     height: 400px;
     float: left;
-    padding: 30px 0 0 10px;
+    padding: 75px 0 0 10px;
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid #E7DE8A;
     box-sizing: border-box;
 }
 
-div > h2, h4 {
-    color: white;
-}
+
 
 /* Footer section */
 
@@ -271,35 +270,39 @@ footer {
 
 /* group walks info */
 
-.gw-section {
-    width: 80%;
-    height: 500px;
-    border: 1px solid #E7DE8A;
-    border-radius: 6px;
-
-    margin: auto;
-    padding: 20px 10px 20px 10px;
-
-    position: relative;
-    top: 100px;
-
-    background-color: #253019;
+.page-heading {
+    background-color: #E7DE8A;
+    padding-bottom: 5%;
 }
 
-.gw-section > h3 {
-    padding-bottom: 20px;
+.page-heading > h2 {
+    font-size: 280%;
+    text-align: center;
+    padding-top: 5%;
+    color: #253019;
+    text-decoration: underline;
 }
 
-.gw-image-info img {
-    width: 300px;
-    height: 350px;
-    position: absolute;
-    overflow: hidden;
-    margin-left: 33%;
+#gw-section {
+        background-image: url('../images/aaron-burden-G_1V58E0TyM-unsplash.jpg');
+        background-size: 100% 100%;
+        width: 100%;
+        height: 1000px;
+        overflow: hidden;
+        margin-top: 2%;
 }
 
-.gw-image-info > iframe {
-    float: right;
+#gw-section div {
+    color: #E7DE8A;
+    background-color: rgba(0, 0, 0, .6);
+    width: 100%;
+    height: 333px;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid #E7DE8A;
+    box-sizing: border-box;
+
+    z-index: 3;
 }
 
 
@@ -374,6 +377,7 @@ footer {
     #nxt-big-event div {
         width: 100%;
         height: 200px;
+        padding: 30px;
     }
 
     #nxt-big-event h2 {
@@ -384,9 +388,13 @@ footer {
         font-size: 80%;
     }
 
+    #nxt-big-event p {
+        font-size: 60%;
+    }
+
     .statement {
         width: 100%;
-        height: 250px;
+        height: 300px;
     }
 
     .statement > h3 {
