@@ -253,6 +253,24 @@ footer {
     position: relative;
 }
 
+.text-sw {
+    width: 50%;
+    float: right;
+    margin: -250px 30px;
+    position: relative;
+}
+
+.text-sw h3 {
+    font-size: 160%;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.text-sw p {
+    font-size: 90%;
+}
+
 .text-mp h3 {
     font-size: 160%;
     text-decoration: underline;
@@ -553,6 +571,23 @@ footer {
         font-size: 60%;
     }
 
+    .text-sw {
+        width: 100%;
+        margin: -200px 0;
+    }
+
+    .text-sw h3 {
+        font-size: 80%;
+    }
+
+    .text-sw p {
+        font-size: 60%;
+    }
+
+    .image-left {
+        height: 100px;
+    }
+
     .image-left img {
         width: 100px;
         height: 100px;
@@ -560,6 +595,12 @@ footer {
     }
 
     .image-left > div iframe {
+        width: 100px;
+        height: 100px;
+        margin: 0 80px;
+    }
+
+    .sw-info > div > iframe {
         width: 100px;
         height: 100px;
         margin: 0 80px;
