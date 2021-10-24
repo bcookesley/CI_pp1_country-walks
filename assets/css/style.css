@@ -249,7 +249,7 @@ footer {
 .text-mp {
     width: 50%;
     float: right;
-    margin: 30px 40px 0 0;
+    margin: -250px 30px;
     position: relative;
 }
 
@@ -264,11 +264,36 @@ footer {
     font-size: 90%;
 }
 
+.sw-info {
+    border: 1px solid #253019;
+    width: 100%;
+    height: 300px;
+    background-color: #253019;
+    float: left;
+    margin: 0 0 30px 0;
+}
+
+.sw-info div {
+    height: 300px;
+}
+
+.sw-info > div > iframe {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.sw-info > div > img {
+    margin-bottom: 230px;
+}
+
 .image-left img {
     width: 300px;
     height: 300px;
     border-radius: 50%;
     border: 2px solid #E7DE8A;
+    z-index: 3;
 }
 
 .image-left>div iframe {
