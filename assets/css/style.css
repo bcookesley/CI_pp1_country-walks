@@ -205,44 +205,7 @@ footer {
 /* Different Walks section */
 
 
-.circle img {
-    width: 100%;
-    border-radius: 50%;
-}
 
-
-.mp-details {
-    width: 66%;
-    height: 300px;
-    border: 2px solid #361E06;
-    border-radius: 6px;
-
-    float: right;
-    margin: 175px 100px 0 0;
-}
-
-.sw-details>img {
-    width: 33%;
-    height: 300px;
-    border-radius: 50%;
-}
-
-.sw-details {
-    width: 66%;
-    height: 300px;
-    border: 2px solid #361E06;
-    border-radius: 6px;
-
-    float: right;
-    margin: 225px 100px 0 0;
-}
-
-
-.clearfix>img {
-    width: 33%;
-    height: 400px;
-    border-radius: 50%;
-}
 
 /* Group walks page */
 
