@@ -246,6 +246,24 @@ footer {
     margin: 0 0 30px 0;
 }
 
+.text-mp {
+    width: 50%;
+    float: right;
+    margin: 30px 40px 0 0;
+    position: relative;
+}
+
+.text-mp h3 {
+    font-size: 160%;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.text-mp > p {
+    font-size: 90%;
+}
+
 .image-left img {
     width: 300px;
     height: 300px;
@@ -254,10 +272,11 @@ footer {
 }
 
 .image-left>div iframe {
-    width: 200px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     position: absolute;
-    margin-left: 2%;
+    border-radius: 50%;
+    margin-top: 25px;
 }
 
 #bg-nav-inpage {
@@ -493,20 +512,35 @@ footer {
     /* walks page */
 
     .mp-info {
-        height: 100px;
+        height: 300px;
+    }
+
+    .text-mp {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .text-mp h3 {
+        font-size: 80%;
+    }
+
+    .text-mp p {
+        font-size: 60%;
     }
 
     .image-left img {
         width: 100px;
         height: 100px;
+        margin: 0 10px;
     }
 
-    .image-left>div iframe {
-        width: 50px;
+    .image-left > div iframe {
+        width: 100px;
         height: 100px;
+        margin: 0 80px;
     }
 
-    #walks-list>div>h3 {
+    #walks-list > div > h3 {
         font-size: 80%;
         margin-left: 20px;
     }
