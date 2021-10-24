@@ -223,6 +223,15 @@ footer {
 
 /* Walks Page */
 
+.walks-header h2 {
+    color: #253019;
+    font-size: 260%;
+    text-align: center;
+    padding: 5%;
+    background-color: #E7DE8A;
+    margin: 0;
+}
+
 #walks-list>div>h3 {
     margin-left: 30px;
     color: #253019;
@@ -234,7 +243,7 @@ footer {
 }
 
 #most-popular {
-    margin-top: 10%;
+    margin-top: 4%;
 }
 
 .mp-info {
@@ -326,6 +335,7 @@ footer {
     width: 100%;
     background-color: #E7DE8A;
     padding-bottom: 5%;
+    border: 2px solid #253019;
 }
 
 .inpage-nav {
