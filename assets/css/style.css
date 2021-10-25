@@ -215,10 +215,21 @@ footer {
 
 .about-us {
     width: 90%;
-    height: 400px;
+    height: 450px;
     border: 1px solid #E7DE8A;
     border-radius: 6px;
     background-color: #253019;
+}
+
+.about-us h3 {
+    font-size: 260%;
+    padding: 1rem;
+    text-align: center;
+}
+
+.about-us > p {
+    font-size: 90%;
+    padding: 0 40px 0 40px;
 }
 
 /* Walks Page */
