@@ -639,6 +639,31 @@ footer {
 
     /* walks page */
 
+    /* inpage navbar style */
+
+    .inpage-nav a {
+        font-size: 100%;
+        margin-left: 10px;
+    }
+
+    .inpage-nav {
+        margin-top: 30px;
+    }
+
+    /* Walks list titles */ 
+
+    #walks-list > div > h3 {
+        font-size: 120%;
+        margin-left: 20px;
+    }
+
+    #walks-list>div>p {
+        font-size: 80%;
+        margin-left: 20px;
+    }
+
+    /* Most popular section */
+
     .mp-info {
         height: 300px;
     }
@@ -658,23 +683,41 @@ footer {
         text-align: center;
     }
 
+    /* Short Walks section */
+
     .text-sw {
         width: 100%;
         margin: -200px 0;
     }
 
     .text-sw h3 {
-        font-size: 80%;
+        font-size: 100%;
+        text-align: center;
     }
 
     .text-sw p {
-        font-size: 60%;
+        font-size: 80%;
+        text-align: center;
     }
+
+    /* Medium Walks section */
 
     .text-mw {
         width: 100%;
         margin: 0;
     }
+
+    .text-mw h3 {
+        font-size: 100%;
+        text-align: center;
+    }
+
+    .text-mw p {
+        font-size: 80%;
+        text-align: center;
+    }
+
+    /* Lond Walks section */
 
     .text-lw {
         width: 100%;
@@ -682,8 +725,16 @@ footer {
     }
 
     .text-lw h3 {
-        font-size: 80%;
+        font-size: 100%;
+        text-align: center;
     }
+
+    .text-lw p {
+        font-size: 80%;
+        text-align: center;
+    }
+
+    /* Pub Walks section */ 
 
     .text-pw {
         width: 100%;
@@ -691,24 +742,16 @@ footer {
     }
 
     .text-pw h3 {
-        font-size: 80%;
+        font-size: 100%;
+        text-align: center;
     }
 
     .text-pw p {
-        font-size: 60%;
-    }
-
-    .text-lw p {
-        font-size: 60%;
-    }
-
-    .text-mw h3 {
         font-size: 80%;
+        text-align: center;
     }
 
-    .text-mw p {
-        font-size: 60%;
-    }
+    /* Image and iframe for map */
 
     .image-left {
         height: 100px;
@@ -734,24 +777,6 @@ footer {
         margin: 0 80px;
     }
 
-    #walks-list > div > h3 {
-        font-size: 80%;
-        margin-left: 20px;
-    }
-
-    #walks-list>div>p {
-        font-size: 60%;
-        margin-left: 20px;
-    }
-
-    .inpage-nav a {
-        font-size: 50%;
-        margin-left: 10px;
-    }
-
-    .inpage-nav {
-        margin-top: 10px;
-    }
 }
 
 /* small screen sizes */
