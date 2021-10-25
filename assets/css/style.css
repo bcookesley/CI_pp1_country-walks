@@ -250,6 +250,7 @@ footer {
     padding: 5%;
     background-color: #E7DE8A;
     margin: 0;
+    text-decoration: underline;
 }
 
 #walks-list>div>h3 {
@@ -523,7 +524,7 @@ footer {
 
 /* for medium to large screen sizes */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
 
     .statement {
         height: 450px;
@@ -531,7 +532,7 @@ footer {
      /* home page */
 
      #head-text {
-        font-size: 100%;
+        font-size: 220%;
         margin-left: 5px;
     }
 
@@ -639,11 +640,15 @@ footer {
 
     /* walks page */
 
+    .walks-header h2 {
+        font-size: 180%;
+    }
+
     /* inpage navbar style */
 
     .inpage-nav a {
         font-size: 100%;
-        margin-left: 10px;
+        margin-left: 30px;
     }
 
     .inpage-nav {
@@ -658,7 +663,7 @@ footer {
     }
 
     #walks-list>div>p {
-        font-size: 80%;
+        font-size: 90%;
         margin-left: 20px;
     }
 
@@ -787,7 +792,7 @@ footer {
     /* home page */
 
     #head-text {
-        font-size: 100%;
+        font-size: 140%;
         margin-left: 5px;
     }
 
@@ -853,6 +858,10 @@ footer {
     }
 
     /* about page */
+
+    .walks-header h2 {
+        font-size: 100%;
+    }
 
     .hero-img {
         width: 100vw;
