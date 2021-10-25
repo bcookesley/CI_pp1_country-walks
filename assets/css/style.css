@@ -458,7 +458,6 @@ footer {
     width: 100%;
     height: 1000px;
     overflow: hidden;
-    margin-top: 2%;
 }
 
 #gw-section div {
@@ -782,6 +781,34 @@ footer {
         margin: 0 80px;
     }
 
+    /* Group Walks page */
+
+    /* page heading */
+
+    .page-heading>h2 {
+        font-size: 180%;
+    }
+
+    /* Group Walks infomation */
+
+    #gw-section {
+        height: 900px;
+    }
+
+    #gw-section div {
+        height: 300px;
+    }
+
+    #gw-section > div > h3 {
+        font-size: 160%;
+        margin-top: 30px;
+    }
+
+    #gw-section > div > p {
+        font-size: 110%;
+        margin-top: 20px;
+    }
+
 }
 
 /* small screen sizes */
@@ -1012,6 +1039,34 @@ footer {
 
     .inpage-nav {
         margin-top: 10px;
+    }
+
+    /* Group Walks page */
+
+    /* page heading */
+
+    .page-heading>h2 {
+        font-size: 120%;
+    }
+
+    /* Group Walks infomation */
+
+    #gw-section {
+        height: 400px;
+    }
+
+    #gw-section div {
+        height: 133px;
+    }
+
+    #gw-section > div > h3 {
+        font-size: 80%;
+        margin-top: 0;
+    }
+
+    #gw-section > div > p {
+        font-size: 60%;
+        margin: 10px
     }
 
 }
