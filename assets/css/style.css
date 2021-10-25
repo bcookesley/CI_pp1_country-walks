@@ -315,6 +315,60 @@ footer {
     margin-bottom: 230px;
 }
 
+.text-mw {
+    width: 50%;
+    float: right;
+    margin: -250px 30px;
+    position: relative;
+}
+
+.text-mw h3 {
+    font-size: 160%;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.text-mw > p {
+    font-size: 90%;
+}
+
+.text-lw {
+    width: 50%;
+    float: right;
+    margin: -250px 30px;
+    position: relative;
+}
+
+.text-lw h3 {
+    font-size: 160%;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.text-lw > p {
+    font-size: 90%;
+}
+
+.text-pw {
+    width: 50%;
+    float: right;
+    margin: -250px 30px;
+    position: relative;
+}
+
+.text-pw h3 {
+    font-size: 160%;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.text-pw > p {
+    font-size: 90%;
+}
+
 .image-left img {
     width: 300px;
     height: 300px;
@@ -591,6 +645,45 @@ footer {
     }
 
     .text-sw p {
+        font-size: 60%;
+    }
+
+    .text-mw {
+        width: 100%;
+        margin: 0;
+    }
+
+    .text-lw {
+        width: 100%;
+        margin: 0;
+    }
+
+    .text-lw h3 {
+        font-size: 80%;
+    }
+
+    .text-pw {
+        width: 100%;
+        margin: 0;
+    }
+
+    .text-pw h3 {
+        font-size: 80%;
+    }
+
+    .text-pw p {
+        font-size: 60%;
+    }
+
+    .text-lw p {
+        font-size: 60%;
+    }
+
+    .text-mw h3 {
+        font-size: 80%;
+    }
+
+    .text-mw p {
         font-size: 60%;
     }
 
