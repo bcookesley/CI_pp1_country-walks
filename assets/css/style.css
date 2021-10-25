@@ -232,6 +232,15 @@ footer {
     padding: 0 40px 0 40px;
 }
 
+.su-btn {
+    color: #E7DE8A;
+    background-color: #253019;
+    font-size: 250%;
+    margin: 20px 0 0 35%;
+    border: 2px solid #E7DE8A;
+    border-radius: 6px;
+}
+
 /* Walks Page */
 
 .walks-header h2 {
@@ -613,7 +622,7 @@ footer {
 
     .about-us {
         width: 100vw;
-        height: 300px;
+        height: 350px;
     }
 
     .about-us h3 {
@@ -622,6 +631,10 @@ footer {
 
     .about-us p {
         font-size: 60%;
+    }
+
+    .su-btn {
+        font-size: 140%;
     }
 
     /* walks page */
@@ -836,7 +849,7 @@ footer {
 
     .about-us {
         width: 100vw;
-        height: 300px;
+        height: 550px;
     }
 
     .about-us h3 {
@@ -845,6 +858,10 @@ footer {
 
     .about-us p {
         font-size: 60%;
+    }
+
+    .su-btn {
+        font-size: 80%;
     }
 
     /* walks page */
