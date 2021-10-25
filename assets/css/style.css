@@ -649,11 +649,13 @@ footer {
     }
 
     .text-mp h3 {
-        font-size: 80%;
+        font-size: 100%;
+        text-align: center;
     }
 
     .text-mp p {
-        font-size: 60%;
+        font-size: 80%;
+        text-align: center;
     }
 
     .text-sw {
@@ -710,18 +712,20 @@ footer {
 
     .image-left {
         height: 100px;
+        text-align: center;
+        margin-right: 150px;
     }
 
     .image-left img {
         width: 100px;
         height: 100px;
-        margin: 0 10px;
+        margin: 0 50px;
     }
 
     .image-left > div iframe {
         width: 100px;
         height: 100px;
-        margin: 0 80px;
+        margin: 0;
     }
 
     .sw-info > div > iframe {
