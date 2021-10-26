@@ -477,12 +477,12 @@ footer {
 /* sign up page */
 
 .newsletter-su {
-    width: 80%;
+    width: 60%;
     border: 1px solid black;
     background-color: #253019;
     position: relative;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 50px;
     padding: 2%;
 }
 
@@ -490,16 +490,14 @@ footer {
 .nl-1 {
     padding: 10px;
     border: 1px solid black;
-    width: 100%;
+    width: 65%;
 
 }
 
 .nl-1>input {
-    width: 60%;
+    width: 100%;
     border: 1px solid black;
     display: flex;
-    margin-left: 20%;
-
 }
 
 .btn {
@@ -1067,6 +1065,31 @@ footer {
     #gw-section > div > p {
         font-size: 60%;
         margin: 10px
+    }
+
+    /* Sign Up page */
+
+    /* Form */
+
+    .newsletter-su {
+        width: 100vw;
+    }
+
+    .newsletter-su h3 {
+        font-size: 100%;
+    }
+
+    .newsletter-su > p {
+        font-size: 60%;
+    }
+
+    .nl-1 {
+        width: 90%;
+        font-size: 100%;
+    }
+    
+    .label-lastn {
+        font-size: 80%;
     }
 
 }
