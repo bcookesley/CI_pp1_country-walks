@@ -633,7 +633,6 @@ footer {
 
     .about-us p {
         font-size: 90%;
-        padding: 0 20px 0 20px;
     }
 
     .su-btn {
@@ -931,7 +930,7 @@ footer {
 
     .about-us {
         width: 100vw;
-        height: 550px;
+        height: 600px;
     }
 
     .about-us h3 {
@@ -944,6 +943,7 @@ footer {
 
     .su-btn {
         font-size: 80%;
+        margin-left: 110px;
     }
 
     /* walks page */
