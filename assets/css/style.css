@@ -523,10 +523,25 @@ footer {
 
 @media screen and (max-width: 1024px) {
 
+    /* home page */
+
     .statement {
-        height: 450px;
+        width: 100%;
+        height: 300px;
     }
-     /* home page */
+
+    .statement>h3 {
+        font-size: 140%;
+        text-align: center;
+    }
+
+    .statement>p {
+        font-size: 90%;
+        padding: 0 20px 0 20px;
+        text-align: center;
+        line-height: 30px;
+    }
+
 
      #head-text {
         font-size: 220%;
@@ -539,7 +554,7 @@ footer {
     }
 
     .txt-header-home h2 {
-        font-size: 65%;
+        font-size: 100%;
     }
 
     #nxt-big-event {
@@ -561,19 +576,6 @@ footer {
     }
 
     #nxt-big-event p {
-        font-size: 60%;
-    }
-
-    .statement {
-        width: 100%;
-        height: 300px;
-    }
-
-    .statement>h3 {
-        font-size: 80%;
-    }
-
-    .statement>p {
         font-size: 60%;
     }
 
@@ -858,11 +860,13 @@ footer {
     }
 
     .statement>h3 {
-        font-size: 80%;
+        font-size: 100%;
+        padding-bottom: 10px;
     }
 
     .statement>p {
         font-size: 60%;
+        line-height: 15px;
     }
 
     .social-links {
@@ -1011,7 +1015,7 @@ footer {
     .image-left > div iframe {
         width: 100px;
         height: 100px;
-        margin: 0 80px;
+        margin: 0 40px;
     }
 
     .sw-info > div > iframe {
@@ -1090,6 +1094,10 @@ footer {
     
     .label-lastn {
         font-size: 80%;
+    }
+
+    .btn {
+        font-size: 60%;
     }
 
 }
