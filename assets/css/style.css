@@ -215,10 +215,11 @@ footer {
 
 .about-us {
     width: 90%;
-    height: 450px;
+    height: 475px;
     border: 1px solid #E7DE8A;
     border-radius: 6px;
     background-color: #253019;
+    margin: 0 auto;
 }
 
 .about-us h3 {
@@ -239,6 +240,16 @@ footer {
     margin: 20px 0 0 35%;
     border: 2px solid #E7DE8A;
     border-radius: 6px;
+    padding: 6px;
+}
+
+a {
+    text-decoration: none;
+    color: #E7DE8A;
+}
+
+.su-btn a:hover {
+    color: #2ac50b;
 }
 
 /* Walks Page */
@@ -638,6 +649,7 @@ footer {
     .su-btn {
         font-size: 140%;
         margin-left: 440px;
+        padding: 6px;
     }
 
     /* walks page */
@@ -945,6 +957,7 @@ footer {
     .su-btn {
         font-size: 80%;
         margin-left: 110px;
+        padding: 6px;
     }
 
     /* walks page */
