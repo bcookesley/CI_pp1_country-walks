@@ -1,8 +1,10 @@
 # <strong>Country Walks</strong>
 
+![Mockup image](docs/am-i-responsive.png)
+
 (Developer: Ben Cookesley)
 
-https://bcookesley.github.io/CI_pp1_country-walks/
+[Live webpage](https://bcookesley.github.io/CI_pp1_country-walks/)
 
 <br>
 <br>
