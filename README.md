@@ -317,6 +317,20 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 </details>
 
+6. As a returning user, I want to see if any new photos have been added.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us page / Gallery | Navigate to about us page and scroll down | Locate the gallery | Works as expected |
+| Instagram | Scroll down on any page and click on the Instagram icon on the footer | Locate Instagram icon and be directed there | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/about-us-gallery.png">
+<img src="docs/user-story-testing/social-link-instagram.png">
+
+</details>
+
 
 ### Frameworks & Tools
 - Bootstrap V5.1
