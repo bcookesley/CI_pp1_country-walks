@@ -274,8 +274,25 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <img src="docs/user-story-testing/about-us-head.png">
 <img src="docs/user-story-testing/about-us-gallery.png">
+<img src="docs/user-story-testing/footer-socials.png">
 
 </details>
+
+4. As a first time user, I want to know if there are any group walks to join.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Next group walk | Go to website and scroll down on home page | Locate the next 2 group walks taking place | Works as expected |
+| Group Walks page | Navigate to the group walks page and scroll down | Locate all the opwn group walks available to join | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/next-group-walk.png">
+<img src="docs/user-story-testing/group-walks-page-head.png">
+<img src="docs/user-story-testing/group-walks.png">
+
+</details>
+
 
 ### Frameworks & Tools
 - Bootstrap V5.1
