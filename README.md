@@ -235,6 +235,18 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <br>
 
+## Testing User Stories
+
+1. As a first time user, I want to know what Country Walks is about.
+
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Us | Navigate to the about us page, scroll down | Locating the about us information | Worked as expected |
+| Home | Go to website and scroll down | Locate a brief intro | Worked as expected |
+
+<details><summary>Screenshots</summary>
+
 ### Frameworks & Tools
 - Bootstrap V5.1
 - Git
