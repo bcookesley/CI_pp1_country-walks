@@ -126,9 +126,18 @@ Again, the colours used on this website is to reflect the colours you shoudl fin
 
 ### Fonts 
 
+Fonts imported form Google fonts and includes Poppins and Roboto with a sans-serif as a fallback. Clean and easy to read fonts were important for the user on this website so the information is clear and easy to read.
+
 <br>
 
 ### Structure
+
+The layout and structure of the website is set in a familiar and user friendly way. Navigation links set to the right of the page and the title on the left as the majority of people read left to right. The website consists of 5 separate pages. 
+- A home page with sections for brief info and next big group walk
+- An about us page with information on what the webite is and a small gallery of images below 
+- A walks page, which details some walking routes reccommended by the website
+- A group walks page that shows the major group walks that are organised 
+- A sign up page where the user can sign up to a newsletter and become a member
 
 <br>
 
