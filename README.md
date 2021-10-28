@@ -276,7 +276,9 @@ The layout and structure of the website is set in a familiar and user friendly w
 <details><summary>Screenshots</summary>
 
 <img src="docs/user-story-testing/about-us-page.png">
+<img src="docs/user-story-testing/about-us-info.png">
 <img src="docs/user-story-testing/home-page-nav.png">
+<img src="docs/user-story-testing/home-about.png">
 
 </details>
 
