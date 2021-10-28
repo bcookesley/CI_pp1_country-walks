@@ -112,9 +112,13 @@
 
 ### Design Choices
 
+This website was designed so that the user has a sense and feeling of being in the countryside. Using colours found in nature that represents the trees, the ground and the landscape the user should feel at ease being on this site. 
+
 <br>
 
 ### Colour
+
+Again, the colours used on this website is to reflect the colours you shoudl find in the great outdoors. Using green, brown, white and off white colours complement nicely. I used Adobe Colour to find the mix of colours to use and wrote some quick code on the index.html page to put these colours to the test. 
 
 <br>
 
