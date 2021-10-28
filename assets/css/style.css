@@ -257,6 +257,10 @@ a {
     color: #E7DE8A;
 }
 
+.social-links a {
+    font-size: 160%;
+}
+
 .su-btn a:hover {
     color: #2ac50b;
 }
