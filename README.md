@@ -247,6 +247,16 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <details><summary>Screenshots</summary>
 
+<img src="docs/user-story-testing/about-us-head.png">
+<img src="docs/user-story-testing/about-us-info.png">
+<img src="docs/user-story-testing/home-about.png">
+
+2. As a first time user, I want to know if I can find any good walking routes to try and what to expect.
+
+| **Feature** | **Action** | **Expected Reult** | **Actual Result** |
+|-------------|------------|--------------------|-------------------|
+| Walks Page | Navigate to walks page and scroll down | Locating the walks page and the walks list | Worked as expected |
+
 ### Frameworks & Tools
 - Bootstrap V5.1
 - Git
