@@ -250,6 +250,8 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 </details>
 
+<br>
+
 2. As a first time user, I want to know if I can find any good walking routes to try and what to expect.
 
 | **Feature** | **Action** | **Expected Reult** | **Actual Result** |
@@ -263,6 +265,8 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 </details>
 
+<br>
+
 3. As a first time user, I want to see some images from any walks or routes shown.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -270,13 +274,15 @@ The layout and structure of the website is set in a familiar and user friendly w
 | Gallery on About Us page | Navigate to about us page and scroll to see images | Locate images below about us information | Worked as expected |
 | Social links on footer | Scroll to the bottom of the page to locate footer and social links | Find social links for more pictures | Works as expected |
 
-<details><summary>Screenshots<summary>
+<details><summary>Screenshots</summary>
 
 <img src="docs/user-story-testing/about-us-head.png">
 <img src="docs/user-story-testing/about-us-gallery.png">
 <img src="docs/user-story-testing/footer-socials.png">
 
 </details>
+
+<br>
 
 4. As a first time user, I want to know if there are any group walks to join.
 
