@@ -232,6 +232,37 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <br>
 
+### Frameworks & Tools
+- Bootstrap V5.1
+- Git
+- Github
+- Gitpod
+- Font Awesome V 5.15.4
+- Google Fonts
+- Balsamiq
+
+<br>
+
+## Features 
+
+<hr>
+
+### Navigation Bar 
+
+### Carousel 
+
+### Next Group Walk
+
+### Walks
+
+### Newsletter and Sign Up
+
+### Footer
+
+### About Us 
+
+<br>
+
 ## Testing User Stories
 
 1. As a first time user, I want to know what Country Walks is about.
@@ -353,15 +384,6 @@ The layout and structure of the website is set in a familiar and user friendly w
 <br>
 
 
-
-### Frameworks & Tools
-- Bootstrap V5.1
-- Git
-- Github
-- Gitpod
-- Font Awesome V 5.15.4
-- Google Fonts
-- Balsamiq
 
 
 
