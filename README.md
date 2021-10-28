@@ -430,7 +430,20 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <br>
 
-11. As a site owner, I want users to be able to find and see walking routes they could try for themselves
+11. As a site owner, I want users to be able to find and see walking routes they could try for themselves.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Walks page | Navigate to walks page | Find a variety of walks to do | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/walks-page-head.png">
+<img src="docs/user-story-testing/walks-list.png">
+
+</details>
+
+<br>
 
 
 
