@@ -120,6 +120,8 @@ This website was designed so that the user has a sense and feeling of being in t
 
 Again, the colours used on this website is to reflect the colours you shoudl find in the great outdoors. Using green, brown, white and off white colours complement nicely. I used Adobe Colour to find the mix of colours to use and wrote some quick code on the index.html page to put these colours to the test. 
 
+![Colour scheme](docs/Colour-pallet.png)
+
 <br>
 
 ### Fonts 
