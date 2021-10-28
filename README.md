@@ -399,6 +399,23 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <br>
 
+9. As a site owner, I want users to be able to engage with a community of people who like to walk.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer Socials | Scroll down any pageto find social media links on footer | Directed to any of the social media pages | Works as expected |
+| About us page | Navigate to about us page | Find infromation on website, social links and newsletter | Works as expected|
+| Sign Up page | Navigate to Sign Up page | Locate sign up form for newsletter and additional benefits for becoming a member | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/footer-socials.png">
+<img src="docs/user-story-testing/sign-up-head.png">
+<img src="docs/user-story-testing/sign-up-form.png">
+
+</details>
+
+
 
 
 
