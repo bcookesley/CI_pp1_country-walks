@@ -256,6 +256,11 @@ The layout and structure of the website is set in a familiar and user friendly w
 |-------------|------------|--------------------|-------------------|
 | Walks Page | Navigate to walks page and scroll down | Locating the walks page and the walks list | Worked as expected |
 
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/walks-page-head.png">
+<img src="docs/user-story-testing/walks-list.png">
+
 ### Frameworks & Tools
 - Bootstrap V5.1
 - Git
