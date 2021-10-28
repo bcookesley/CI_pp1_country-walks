@@ -82,25 +82,25 @@
 <br>
 
 #### First Time User 
-- As a first time user, I want to know what Country Walks is about
-- As a first time user, I want to know if I can find any good walking routes to try and what to expect
-- As a first time user, I want to see some images from any walks or routes shown
-- As a first time user, I want to know if there are any group walks to join
+1. As a first time user, I want to know what Country Walks is about
+2. As a first time user, I want to know if I can find any good walking routes to try and what to expect
+3. As a first time user, I want to see some images from any walks or routes shown
+4. As a first time user, I want to know if there are any group walks to join
 
 <br>
 
 #### Returning User 
-- As a returning user, I want to see any social events or group walks happening and where
-- As a returning user, I want to see if any new photos have been added
-- As a returning user, I want to see if there are any new walking routes to try
-- As a returning user, I want to contact someone at Country Walks
+5. As a returning user, I want to see any social events or group walks happening and where
+6. As a returning user, I want to see if any new photos have been added
+7. As a returning user, I want to see if there are any new walking routes to try
+8. As a returning user, I want to contact someone at Country Walks
 
 <br>
 
 #### Site Owner 
-- As a site owner, I want users to be able to engage with a community of people who like to walk
-- As a site owner, I want users to be able to contact someone
-- As a site owner, I want users to be able to find and see walking routes they could try for themselves
+9. As a site owner, I want users to be able to engage with a community of people who like to walk
+10. As a site owner, I want users to be able to contact someone
+11. As a site owner, I want users to be able to find and see walking routes they could try for themselves
 
 <br>
 
@@ -290,12 +290,30 @@ The layout and structure of the website is set in a familiar and user friendly w
 |-------------|------------|---------------------|-------------------|
 | Next group walk | Go to website and scroll down on home page | Locate the next 2 group walks taking place | Works as expected |
 | Group Walks page | Navigate to the group walks page and scroll down | Locate all the opwn group walks available to join | Works as expected |
+| Next Group Walk | Go to website and scroll down | Locate the next group walk info | Works as expected |
 
 <details><summary>Screenshots</summary>
 
 <img src="docs/user-story-testing/next-group-walk.png">
 <img src="docs/user-story-testing/group-walks-page-head.png">
 <img src="docs/user-story-testing/group-walks.png">
+
+</details>
+
+<br>
+
+5. As a returning user, I want to see any social events or group walks happening and where.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Next group walks | Go to home page of website and scroll down | Locate the next group walk times and details | Works as expected |
+| Facebook group | Scroll down on any page and find Facebook icon on footer and click | Directs the user to Facebook | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/next-group-walk.png">
+<img src="docs/user-story-testing/footer-socials.png">
+<img src="docs/user-story-testing/social-link.png">
 
 </details>
 
