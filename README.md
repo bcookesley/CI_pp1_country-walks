@@ -415,6 +415,23 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 </details>
 
+10. As a site owner, I want users to be able to contact someone.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer email | Scroll down any page and click on envelope icon | Directed to Gmail | Works as expected|
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/footer-socials.png">
+<img src="docs/user-story-testing/footer-email.png">
+
+</details>
+
+<br>
+
+11. As a site owner, I want users to be able to find and see walking routes they could try for themselves
+
 
 
 
