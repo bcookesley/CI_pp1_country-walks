@@ -261,6 +261,22 @@ The layout and structure of the website is set in a familiar and user friendly w
 <img src="docs/user-story-testing/walks-page-head.png">
 <img src="docs/user-story-testing/walks-list.png">
 
+</details>
+
+3. As a first time user, I want to see some images from any walks or routes shown.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery on About Us page | Navigate to about us page and scroll to see images | Locate images below about us information | Worked as expected |
+| Social links on footer | Scroll to the bottom of the page to locate footer and social links | Find social links for more pictures | Works as expected |
+
+<details><summary>Screenshots<summary>
+
+<img src="docs/user-story-testing/about-us-head.png">
+<img src="docs/user-story-testing/about-us-gallery.png">
+
+</details>
+
 ### Frameworks & Tools
 - Bootstrap V5.1
 - Git
