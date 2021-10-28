@@ -383,6 +383,22 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <br>
 
+8. As a returning user, I want to contact someone at Country Walks.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | Scroll down any page to find the envelope icon and click | Directed to Gmail email | Works as expected |
+| Footer socials | Scroll down any page to find any of the social media icons and click | Directed to a social media page | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/footer-email.png">
+<img src="docs/user-story-testing/footer-socials.png">
+
+</details>
+
+<br>
+
 
 
 
