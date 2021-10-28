@@ -317,6 +317,8 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 </details>
 
+<br>
+
 6. As a returning user, I want to see if any new photos have been added.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -330,6 +332,26 @@ The layout and structure of the website is set in a familiar and user friendly w
 <img src="docs/user-story-testing/social-link-instagram.png">
 
 </details>
+
+<br>
+
+7. As a returning user, I want to see if there are any new walking routes to try.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Walks page | Navigate to walks page and scroll down | Locate all the walks currently listed by the website | Works as expected |
+| Footer social links | Scroll down on any page and find the social links on the footer | Locate social links and click on them to be directed to a social networking site | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/walks-page-head.png">
+<img src="docs/user-story-testing/walks-list.png">
+<img src="docs/user-story-testing/footer-socials.png">
+
+</details>
+
+<br>
+
 
 
 ### Frameworks & Tools
