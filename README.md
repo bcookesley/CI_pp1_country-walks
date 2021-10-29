@@ -337,6 +337,19 @@ The W3C Markup Validation service was used to validate all 5 pages of HTML code.
 <img src="validations/html/sign-up-validation-html.png">
 </details>
 
+### CSS Validation
+
+The W3C CSS Validation Service was used to validate the CSS code by URL and direct input. All CSS code showed to pass all code by URL and direct input.
+
+<details><summary>Whole Page</summary>
+<img src="validations/css/css-validation-url.png">
+</details>
+<details><summary>Direct Input (style.css)</summary>
+<img src="validations/css/css-validation-direct-input.png">
+</details>
+
+<br>
+
 ## Testing User Stories
 
 1. As a first time user, I want to know what Country Walks is about.
