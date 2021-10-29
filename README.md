@@ -396,6 +396,13 @@ Google Lighthouse in Chrome Developed tools was used to test the performance of 
 
 <br>
 
+## Browser Compatability 
+
+This website was tested on the following browsers:
+
+- Google Chrome
+- Mozilla Firefox
+
 ## Testing User Stories
 
 1. As a first time user, I want to know what Country Walks is about.
