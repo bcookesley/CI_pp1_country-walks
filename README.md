@@ -81,8 +81,6 @@
 
 ### User Stories 
 
-<br>
-
 #### First Time User 
 1. As a first time user, I want to know what Country Walks is about
 2. As a first time user, I want to know if I can find any good walking routes to try and what to expect
