@@ -598,6 +598,15 @@ This website was tested on the following browsers:
 
 ### Media 
 
+Images were sourced from Unsplash and credits to the photographers are detailed below.
+
+- Carousel 1, 2 & 3 - Aaron Burden, Tim Foster, Luca Micheli (Unsplash Images)
+- About Us page Hero Image - Magda V (Unsplash)
+- Gallery Section on about us page - Yevhenii Dubrovski, Jake Melara, Katie McBroom, Kitera Dent, Angelo Pantazis, Jon Flobrant, Aaron Burden (Unsplash)
+- Group Walks image - Jon Flobrant (Unsplash)
+- Walks Page images - Robert Cook (Pub Walk), Annie Spratt (Long Walk), Katie McBroom (Medium Walk), Greg Wilson (Short Walk), Nick Fewings (Most Popular) - (Unsplash)
+- Sign Up page hero image - Luca Micheli (Unsplash)
+
 ### Code 
 
 - The HTML for the responsive [Navbar with Toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from Bootstrap V 5.1 documentation code snippet.
