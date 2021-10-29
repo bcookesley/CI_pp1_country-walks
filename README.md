@@ -403,6 +403,8 @@ This website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
 
+<br>
+
 ## Testing User Stories
 
 1. As a first time user, I want to know what Country Walks is about.
@@ -584,14 +586,6 @@ This website was tested on the following browsers:
 </details>
 
 <br>
-
-
-
-
-
-
-
-
 <br>
 <br>
 <br>
@@ -601,6 +595,13 @@ This website was tested on the following browsers:
 <br>
 
 ## Credits 
+
+### Media 
+
+### Code 
+
+- The HTML for the responsive [Navbar with Toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from Bootstrap V 5.1 documentation code snippet.
+- The [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/) on the index page was taken from Bootstrap V 5.1 documentation code snippet
 
 <br>
 
