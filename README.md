@@ -598,6 +598,7 @@ Images were sourced from Unsplash and credits to the photographers are detailed 
 
 - The HTML for the responsive [Navbar with Toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from Bootstrap V 5.1 documentation code snippet.
 - The [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/) on the index page was taken from Bootstrap V 5.1 documentation code snippet
+- Code Institute - Love Running project: Some code was inspired and may appear very similar in some sections of HTML and CSS code
 
 
 ## Acknowledgements
