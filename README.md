@@ -249,7 +249,23 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ### Navigation Bar 
 
+- Features on all 5 pages
+- Fully responsive and changes to the hamburger menu on smaller screens and includes all 5 pages with an underline and icon to keep the user on track for what page they're on.
+- Easy to read
+- Allows the user to easily navigate through the site
+
+![Navbar](docs/features/nav-bar-shot.png)
+
+<br>
+
 ### Carousel 
+
+- Shows the user images of walks people have done and taken pictures of in a three picture slide show
+- User is able navigate through the pictres (left to right or right to left) with left and right arrows
+
+![Carousel](docs/features/carousel-image.png)
+
+<br>
 
 ### Next Group Walk
 
@@ -278,7 +294,7 @@ The layout and structure of the website is set in a familiar and user friendly w
 <img src="docs/user-story-testing/about-us-page.png">
 <img src="docs/user-story-testing/about-us-info.png">
 <img src="docs/user-story-testing/home-page-nav.png">
-<img src="docs/user-story-testing/home-about.png">
+<img src="docs/features/home-about.png">
 
 </details>
 
@@ -308,7 +324,7 @@ The layout and structure of the website is set in a familiar and user friendly w
 <details><summary>Screenshots</summary>
 
 <img src="docs/user-story-testing/about-us-page.png">
-<img src="docs/user-story-testing/about-us-gallery.png">
+<img src="docs/features/about-us-gallery.png">
 <img src="docs/user-story-testing/footer-nav.png">
 
 </details>
@@ -325,9 +341,9 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <details><summary>Screenshots</summary>
 
-<img src="docs/user-story-testing/next-group-walk.png">
+<img src="docs/features/next-group-walk.png">
 <img src="docs/user-story-testing/group-walks-page-head.png">
-<img src="docs/user-story-testing/group-walks.png">
+<img src="docs/features/group-walks.png">
 
 </details>
 
@@ -342,7 +358,7 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <details><summary>Screenshots</summary>
 
-<img src="docs/user-story-testing/next-group-walk.png">
+<img src="docs/features/next-group-walk.png">
 <img src="docs/user-story-testing/footer-nav.png">
 <img src="docs/user-story-testing/facebook-footer-nav.png">
 
@@ -360,7 +376,7 @@ The layout and structure of the website is set in a familiar and user friendly w
 <details><summary>Screenshots</summary>
 
 <img src="docs/user-story-testing/about-us-page.png">
-<img src="docs/user-story-testing/about-us-gallery.png">
+<img src="docs/features/about-us-gallery.png">
 <img src="docs/user-story-testing/instagram-nav.png">
 
 </details>
@@ -377,7 +393,7 @@ The layout and structure of the website is set in a familiar and user friendly w
 <details><summary>Screenshots</summary>
 
 <img src="docs/user-story-testing/walks-page-nav.png">
-<img src="docs/user-story-testing/walks-list.png">
+<img src="docs/features/walks-list.png">
 <img src="docs/user-story-testing/footer-socials.png">
 
 </details>
@@ -439,7 +455,7 @@ The layout and structure of the website is set in a familiar and user friendly w
 <details><summary>Screenshots</summary>
 
 <img src="docs/user-story-testing/walks-page-nav.png">
-<img src="docs/user-story-testing/walks-list.png">
+<img src="docs/features/walks-list.png">
 
 </details>
 
