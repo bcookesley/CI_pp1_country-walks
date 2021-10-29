@@ -378,6 +378,7 @@ This website was tested on the following browsers:
 
 - Google Chrome
 - Mozilla Firefox
+- Safari V 14.1.2
 
 ## Testing User Stories
 
