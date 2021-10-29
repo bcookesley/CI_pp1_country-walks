@@ -287,9 +287,29 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ### Newsletter and Sign Up
 
+- Allows user to sign up to the sites newsletter and become a member
+- Additional benefits of more walking routes to explore for user
+
+![Sign Up](docs/features/sign-up-form.png)
+
+<br>
+
 ### Footer
 
+- Features on all 5 pages of the site 
+- Has 3 social accounts linked - Facebook, Instagram and Twitter
+- Has email so user can get in touch
+
+![Footer](docs/user-story-testing/footer-socials.png)
+
+<br>
+
 ### About Us 
+
+- Provides the user with some information on the site, what they do and how the user can interact with the social groups
+- Covered in user story (1)
+
+![About Us](docs/user-story-testing/about-us-info.png)
 
 <br>
 
