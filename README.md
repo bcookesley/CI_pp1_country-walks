@@ -27,8 +27,16 @@
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-and-tools)
 5. [Features](#features)
-6. [Credits](#credits)
-7. [Acknowledgements](#acknowledgements)
+    1. [Navigation Bar](#navigation-bar)
+    2. [Carousel](#carousel)
+    3. [Next Group Walk](#next-group-walk)
+    4. [Walks](#walks)
+    5. [Newsletter and Sign Up](#newsletter-and-sign-up)
+    6. [Footer](#footer)
+    7. [About Us](#about-us)
+6. [Testing](#validation) 
+7. [Credits](#credits)
+8. [Acknowledgements](#acknowledgements)
 
 
 
