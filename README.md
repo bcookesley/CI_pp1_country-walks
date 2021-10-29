@@ -6,7 +6,6 @@
 
 [Live webpage](https://bcookesley.github.io/CI_pp1_country-walks/)
 
-<br>
 
 # Table of Contents
 
@@ -42,8 +41,9 @@
     5. [Performance Tests on Various Devices](#performance-tests-on-various-devices)
     6. [Browser Compatability](#browser-compatability)
     7. [Testing User Stories](#testing-user-stories)
-7. [Credits](#credits)
-8. [Acknowledgements](#acknowledgements)
+7. [Deployment] 
+8. [Credits](#credits)
+9. [Acknowledgements](#acknowledgements)
 
 
 
@@ -51,35 +51,25 @@
 
 # Project Goals
 
-<br>
-
 ### User Goals
 - Finding a place where you can see walking routes done by others
 - Seeing photos and images taken on the walking routes shown
 - Find any walking events happening 
 - Locate a community of walkers
 
-<br>
-
 ### Site Owner Goals
 - Provide useful information on walking routes for safety and wellbeing of anyone not familiar with the areas covered
 - Boost a community of walkers and ramblers 
 - Display a walking challenges to suit a variety of different experiences 
 
-<br>
-
 
 ## User Experience 
-<hr>
-<br>
 
 ### Target Audience
 - People who enjoy a good walk 
 - People looking to find new walking routes
 - People looking for a community of walkers and ramblers
 - People who enjoy the counrtyside and enjoy taking landscape photos
-
-<br>
 
 ### User Requirements and Expectations
 - Easy to read and relevant information 
@@ -91,8 +81,6 @@
 - Accessibility
 
 
-<br>
-
 ### User Stories 
 
 <br>
@@ -103,31 +91,26 @@
 3. As a first time user, I want to see some images from any walks or routes shown
 4. As a first time user, I want to know if there are any group walks to join
 
-<br>
-
 #### Returning User 
 5. As a returning user, I want to see any social events or group walks happening and where
 6. As a returning user, I want to see if any new photos have been added
 7. As a returning user, I want to see if there are any new walking routes to try
 8. As a returning user, I want to contact someone at Country Walks
 
-<br>
 
 #### Site Owner 
 9. As a site owner, I want users to be able to engage with a community of people who like to walk
 10. As a site owner, I want users to be able to contact someone
 11. As a site owner, I want users to be able to find and see walking routes they could try for themselves
 
-<br>
 
 ## Design
-<hr>
 
 ### Design Choices
 
 This website was designed so that the user has a sense and feeling of being in the countryside. Using colours found in nature that represents the trees, the ground and the landscape the user should feel at ease being on this site. 
 
-<br>
+
 
 ### Colour
 
@@ -135,13 +118,11 @@ Again, the colours used on this website is to reflect the colours you shoudl fin
 
 ![Colour scheme](docs/Colour-pallet.png)
 
-<br>
 
 ### Fonts 
 
 Fonts imported form Google fonts and includes Poppins and Roboto with a sans-serif as a fallback. Clean and easy to read fonts were important for the user on this website so the information is clear and easy to read.
 
-<br>
 
 ### Structure
 
@@ -151,8 +132,6 @@ The layout and structure of the website is set in a familiar and user friendly w
 - A walks page, which details some walking routes reccommended by the website
 - A group walks page that shows the major group walks that are organised 
 - A sign up page where the user can sign up to a newsletter and become a member
-
-<br>
 
 ### Wireframes
 
@@ -236,17 +215,12 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 </details>
 
-<br>
 
 ## Technologies Used 
-
-<hr>
 
 ### Languages 
 - HTML
 - CSS
-
-<br>
 
 ### Frameworks & Tools
 - Bootstrap V5.1
@@ -256,8 +230,6 @@ The layout and structure of the website is set in a familiar and user friendly w
 - Font Awesome V 5.15.4
 - Google Fonts
 - Balsamiq
-
-<br>
 
 ## Features 
 
@@ -272,16 +244,12 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ![Navbar](docs/features/nav-bar-shot.png)
 
-<br>
-
 ### Carousel 
 
 - Shows the user images of walks people have done and taken pictures of in a three picture slide show
 - User is able navigate through the pictres (left to right or right to left) with left and right arrows
 
 ![Carousel](docs/features/carousel-image.png)
-
-<br>
 
 ### Next Group Walk
 
@@ -290,7 +258,6 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ![Group Walks](docs/features/group-walks.png)
 
-<br>
 
 ### Walks
 
@@ -299,7 +266,6 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ![Walks](docs/features/walks-list.png)
 
-<br>
 
 ### Newsletter and Sign Up
 
@@ -308,7 +274,6 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ![Sign Up](docs/features/sign-up-form.png)
 
-<br>
 
 ### Footer
 
@@ -318,7 +283,6 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ![Footer](docs/user-story-testing/footer-socials.png)
 
-<br>
 
 ### About Us 
 
@@ -327,11 +291,9 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ![About Us](docs/user-story-testing/about-us-info.png)
 
-<br>
 
 ## Validation 
 
-<hr>
 
 ### HTML Validation 
 
@@ -353,7 +315,6 @@ The W3C Markup Validation service was used to validate all 5 pages of HTML code.
 <img src="validations/html/sign-up-validation-html.png">
 </details>
 
-<br>
 
 ### CSS Validation
 
@@ -365,8 +326,6 @@ The W3C CSS Validation Service was used to validate the CSS code by URL and dire
 <details><summary>Direct Input (style.css)</summary>
 <img src="validations/css/css-validation-direct-input.png">
 </details>
-
-<br>
 
 ### Accessibility 
 
@@ -388,11 +347,7 @@ WAVE WebAIM was used to ensure the website meets accessibility standards. All pa
 <img src="validations/accessibility/accessibility-check-sign-up-page.png">
 </details>
 
-<br>
-
 ## Performance 
-
-<hr>
 
 Google Lighthouse in Chrome Developer tools was used to test the performance of the website.
 
@@ -412,8 +367,6 @@ Google Lighthouse in Chrome Developer tools was used to test the performance of 
 <img src="performance/performance-sign-up-page.png">
 </details>
 
-<br>
-
 ## Performance Tests on Various Devices
 
 In addition to the tests done on Chrome Developer tools this website was also tested on:
@@ -427,8 +380,6 @@ This website was tested on the following browsers:
 
 - Google Chrome
 - Mozilla Firefox
-
-<br>
 
 ## Testing User Stories
 
@@ -449,7 +400,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
 
 2. As a first time user, I want to know if I can find any good walking routes to try and what to expect.
 
@@ -462,8 +412,6 @@ This website was tested on the following browsers:
 <img src="docs/user-story-testing/walks-page-nav.png">
 
 </details>
-
-<br>
 
 3. As a first time user, I want to see some images from any walks or routes shown.
 
@@ -480,7 +428,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
 
 4. As a first time user, I want to know if there are any group walks to join.
 
@@ -498,7 +445,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
 
 5. As a returning user, I want to see any social events or group walks happening and where.
 
@@ -515,7 +461,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
 
 6. As a returning user, I want to see if any new photos have been added.
 
@@ -532,7 +477,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
 
 7. As a returning user, I want to see if there are any new walking routes to try.
 
@@ -549,8 +493,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
-
 8. As a returning user, I want to contact someone at Country Walks.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
@@ -565,7 +507,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
 
 9. As a site owner, I want users to be able to engage with a community of people who like to walk.
 
@@ -595,7 +536,6 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
 
 11. As a site owner, I want users to be able to find and see walking routes they could try for themselves.
 
@@ -610,12 +550,8 @@ This website was tested on the following browsers:
 
 </details>
 
-<br>
-<br>
-
 ## Deployment 
 
-<hr>
 
 This website was deployed using GitHub Pages following these steps:
 
@@ -629,7 +565,6 @@ The repository can be forked by following these steps:
 1. Go to the GitHub repository
 2. Click on fork in the top right hand corner
 
-<br>
 
 To clone the repository:
 
@@ -641,11 +576,9 @@ To clone the repository:
 6. Type git clone and paste the URL from your clipboard ($ git clone https://github.com/USERNAME/REPOSITORY)
 7. Press enter to create your clone
 
-<br>
 
 ## Credits 
 
-<hr>
 
 ### Media 
 
@@ -660,19 +593,15 @@ Images were sourced from Unsplash and credits to the photographers are detailed 
 - Walks Page images - Robert Cook (Pub Walk), Annie Spratt (Long Walk), Katie McBroom (Medium Walk), Greg Wilson (Short Walk), Nick Fewings (Most Popular) - (Unsplash)
 - Sign Up page hero image - Luca Micheli (Unsplash)
 
-<br>
 
 ### Code 
 
 - The HTML for the responsive [Navbar with Toggler](https://getbootstrap.com/docs/5.0/components/navbar/#toggler) was taken from Bootstrap V 5.1 documentation code snippet.
 - The [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/) on the index page was taken from Bootstrap V 5.1 documentation code snippet
 
-<br>
-
 
 ## Acknowledgements
 
-<hr>
 
 I would like to give my thanks to:
 
