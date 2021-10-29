@@ -41,12 +41,10 @@
     5. [Performance Tests on Various Devices](#performance-tests-on-various-devices)
     6. [Browser Compatability](#browser-compatability)
     7. [Testing User Stories](#testing-user-stories)
-7. [Deployment] 
-8. [Credits](#credits)
-9. [Acknowledgements](#acknowledgements)
-
-
-
+7. [Bugs](#bugs)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+10. [Acknowledgements](#acknowledgements)
 
 
 # Project Goals
