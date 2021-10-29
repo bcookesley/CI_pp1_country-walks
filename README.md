@@ -595,8 +595,8 @@ Images were sourced from Unsplash and credits to the photographers are detailed 
 - About Us page Hero Image - [Magda V](https://unsplash.com/photos/NTtpEsUSagg) (Unsplash image)
 - Gallery Section on about us page - [Yevhenii Dubrovski](https://unsplash.com/photos/4hfPfuYB14k), [Jake Melara](https://unsplash.com/photos/Yh6K2eTr_FY), [Katie McBroom](https://unsplash.com/photos/-Tvjzjcji2k), Kitera Dent, [Angelo Pantazis](https://unsplash.com/photos/zXVk8mNl9M0), [Jon Flobrant](https://unsplash.com/photos/_r19nfvS3wY), [Aaron Burden](https://unsplash.com/photos/G_1V58E0TyM) (Unsplash)
 - Group Walks image - [Jon Flobrant](https://unsplash.com/photos/_r19nfvS3wY) (Unsplash)
-- Walks Page images - Robert Cook (Pub Walk), Annie Spratt (Long Walk), Katie McBroom (Medium Walk), Greg Wilson (Short Walk), Nick Fewings (Most Popular) - (Unsplash)
-- Sign Up page hero image - Luca Micheli (Unsplash)
+- Walks Page images - [Robert Cook](https://unsplash.com/photos/TKMUt6sFQyw) (Pub Walk), [Annie Spratt](https://unsplash.com/photos/GPCgLbBevQg) (Long Walk), [Katie McBroom](https://unsplash.com/photos/-Tvjzjcji2k) (Medium Walk), [Greg Wilson](https://unsplash.com/photos/aGutO88lNEI) (Short Walk), [Nick Fewings](https://unsplash.com/photos/nyI87MyygaA) (Most Popular) - (Unsplash)
+- Sign Up page hero image - [Luca Micheli](https://unsplash.com/photos/r9RW20TrQ0Y) (Unsplash)
 
 
 ### Code 
