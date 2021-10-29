@@ -589,11 +589,11 @@ To clone the repository:
 
 Images were sourced from Unsplash and credits to the photographers are detailed below.
 
-- Carousel-1: [Aaron Burden](https://unsplash.com/photos/G_1V58E0TyM)
-- Carousel-2: [Tim Foster](https://unsplash.com/photos/lSegRSDBMLw)
-- Carousel-3: Luca Micheli - Unsplash Images)
-- About Us page Hero Image - Magda V (Unsplash)
-- Gallery Section on about us page - [Yevhenii Dubrovski](https://unsplash.com/photos/4hfPfuYB14k), [Jake Melara](https://unsplash.com/photos/Yh6K2eTr_FY), Katie McBroom, Kitera Dent, [Angelo Pantazis](https://unsplash.com/photos/zXVk8mNl9M0), Jon Flobrant, Aaron Burden (Unsplash)
+- Carousel-1: [Aaron Burden](https://unsplash.com/photos/G_1V58E0TyM) (Unsplash Image)
+- Carousel-2: [Tim Foster](https://unsplash.com/photos/lSegRSDBMLw) (Unsplash Image)
+- Carousel-3: [Luca Micheli](https://unsplash.com/photos/r9RW20TrQ0Y) (Unsplash Image)
+- About Us page Hero Image - [Magda V](https://unsplash.com/photos/NTtpEsUSagg) (Unsplash image)
+- Gallery Section on about us page - [Yevhenii Dubrovski](https://unsplash.com/photos/4hfPfuYB14k), [Jake Melara](https://unsplash.com/photos/Yh6K2eTr_FY), [Katie McBroom](https://unsplash.com/photos/-Tvjzjcji2k), Kitera Dent, [Angelo Pantazis](https://unsplash.com/photos/zXVk8mNl9M0), [Jon Flobrant](https://unsplash.com/photos/_r19nfvS3wY), [Aaron Burden](https://unsplash.com/photos/G_1V58E0TyM) (Unsplash)
 - Group Walks image - [Jon Flobrant](https://unsplash.com/photos/_r19nfvS3wY) (Unsplash)
 - Walks Page images - Robert Cook (Pub Walk), Annie Spratt (Long Walk), Katie McBroom (Medium Walk), Greg Wilson (Short Walk), Nick Fewings (Most Popular) - (Unsplash)
 - Sign Up page hero image - Luca Micheli (Unsplash)
