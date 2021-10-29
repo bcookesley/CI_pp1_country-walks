@@ -222,6 +222,10 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <br>
 
+### Accessibility 
+
+WAVE WebAIM was used to ensure the website meets accessibility standards.
+
 ## Technologies Used 
 
 <hr>
