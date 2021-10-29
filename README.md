@@ -587,25 +587,36 @@ This website was tested on the following browsers:
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+## Deployment 
+
+This website was deployed using GitHub Pages following these steps:
+
+1. In the GitHub repository click on the settings tab at the top
+2. On the left menu scrtoll down and select pages
+3. For the source select 'main'
+4. The webpage will refresh and display a highlighted section with a message stating: "Your website is published at https://bcookesley.github.io/CI_pp1_country-walks/" 
+
 <br>
 
 ## Credits 
+
+<hr>
 
 ### Media 
 
 Images were sourced from Unsplash and credits to the photographers are detailed below.
 
-- Carousel 1, 2 & 3 - Aaron Burden, Tim Foster, Luca Micheli (Unsplash Images)
+- Carousel-1: Aaron Burden
+- Carousel-2: Tim Foster
+- Carousel-3: Luca Micheli - Unsplash Images)
 - About Us page Hero Image - Magda V (Unsplash)
 - Gallery Section on about us page - Yevhenii Dubrovski, Jake Melara, Katie McBroom, Kitera Dent, Angelo Pantazis, Jon Flobrant, Aaron Burden (Unsplash)
 - Group Walks image - Jon Flobrant (Unsplash)
 - Walks Page images - Robert Cook (Pub Walk), Annie Spratt (Long Walk), Katie McBroom (Medium Walk), Greg Wilson (Short Walk), Nick Fewings (Most Popular) - (Unsplash)
 - Sign Up page hero image - Luca Micheli (Unsplash)
+
+<br>
 
 ### Code 
 
@@ -616,6 +627,8 @@ Images were sourced from Unsplash and credits to the photographers are detailed 
 
 
 ## Acknowledgements
+
+<hr>
 
 I would like to give my thanks to:
 
