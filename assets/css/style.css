@@ -506,7 +506,7 @@ a {
     border: 1px solid black;
     background-color: #253019;
     position: relative;
-    margin: 0 350px 150px;
+    margin: 0 300px 150px;
     margin-top: 50px;
     padding: 2%;
 }
@@ -940,7 +940,7 @@ a {
     }
 
     .text-overlay {
-        width: 80vw;
+        width: 90vw;
         height: 75px;
     }
 
