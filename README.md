@@ -319,6 +319,23 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ### HTML Validation 
 
+The W3C Markup Validation service was used to validate all 5 pages of HTML code. All pages passed with no errors, but some warnings on about us page due to no headings on a particular section. This is a design choice. 
+
+<details><summary>Home</summary>
+<img src="validations/html/home-validation-html.png">
+</details>
+<details><summary>About Us</summary>
+<img src="validations/html/about-us-validation-html.png">
+</details>
+<details><summary>Walks</summary>
+<img src="validations/html/walks-validation-html.png">
+</details>
+<details><summary>Group Walks</summary>
+<img src="validations/html/group-walks-validation-html.png">
+</details>
+<details><summary>Sign Up</summary>
+<img src="validations/html/sign-up-validation-html.png">
+</details>
 
 ## Testing User Stories
 
