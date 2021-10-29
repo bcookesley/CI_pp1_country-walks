@@ -224,7 +224,23 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ### Accessibility 
 
-WAVE WebAIM was used to ensure the website meets accessibility standards.
+WAVE WebAIM was used to ensure the website meets accessibility standards. All pages found no errors, but some warnings on a couple of pages due to a stylistic choice made to not include headings on a photos section.
+
+<details><summary>Home</summary>
+<img src="validations/accessibility/accessibillity-check-home-page.png">
+</details>
+<details><summary>About Us</summary>
+<img src="validations/accessibility/accessibility-check-about-page.png">
+</details>
+<details><summary>Walks</summary>
+<img src="validations/accessibility/accessibility-check-walks-page.png">
+</details>
+<details><summary>Group Walks</summary>
+<img src="validations/accessibility/accessibility-check-group-walks-page.png">
+</details>
+<details><summary>Sign Up</summary>
+<img src="validations/accessibility/accessibility-check-sign-up-page.png">
+</details>
 
 ## Technologies Used 
 
