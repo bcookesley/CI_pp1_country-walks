@@ -26,8 +26,9 @@
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-and-tools)
-5. [Credits](#credits)
-6. [Acknowledgements](#acknowledgements)
+5. [Features](#features)
+6. [Credits](#credits)
+7. [Acknowledgements](#acknowledgements)
 
 
 
@@ -378,7 +379,7 @@ WAVE WebAIM was used to ensure the website meets accessibility standards. All pa
 
 <hr>
 
-Google Lighthouse in Chrome Developed tools was used to test the performance of the website.
+Google Lighthouse in Chrome Developer tools was used to test the performance of the website.
 
 <details><summary>Home</summary>
 <img src="performance/performance-home-page.png">
