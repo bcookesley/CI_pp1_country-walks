@@ -269,7 +269,21 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 ### Next Group Walk
 
+- Allows the user to see the next group walks they can join
+- Group walk info is clear and easy to read (see user story 4 & 5)
+
+![Group Walks](docs/features/group-walks.png)
+
+<br>
+
 ### Walks
+
+- Allows the user to see and look through reccommended walks, short, medium, long and most popular
+- Covered in user stories (2 & 7)
+
+![Walks](docs/features/walks-list.png)
+
+<br>
 
 ### Newsletter and Sign Up
 
