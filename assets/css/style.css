@@ -101,6 +101,7 @@ body {
     padding-top: 25px;
     width: 80%;
     height: 100px;
+    text-decoration: underline;
 
     background-color: rgba(37, 48, 25, 0.7);
     border: 2px solid #E7DE8A;
