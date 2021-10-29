@@ -597,6 +597,23 @@ This website was deployed using GitHub Pages following these steps:
 3. For the source select 'main'
 4. The webpage will refresh and display a highlighted section with a message stating: "Your website is published at https://bcookesley.github.io/CI_pp1_country-walks/" 
 
+The repository can be forked by following these steps: 
+
+1. Go to the GitHub repository
+2. Click on fork in the top right hand corner
+
+<br>
+
+To clone the repository:
+
+1. Go to the GitHub repository
+2. Click on where it says 'Code' at the top of the repository
+3. Select to clone either HTML, SSH or GitHub CLI
+4. Go to the working directory you wish to work from
+5. Go to Git Bash
+6. Type git clone and paste the URL from your clipboard ($ git clone https://github.com/USERNAME/REPOSITORY)
+7. Press enter to create your clone
+
 <br>
 
 ## Credits 
