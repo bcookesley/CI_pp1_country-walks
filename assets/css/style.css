@@ -244,10 +244,16 @@ footer {
     color: #E7DE8A;
     background-color: #253019;
     font-size: 250%;
-    margin: 20px 0 0 35%;
     border: 2px solid #E7DE8A;
     border-radius: 6px;
     padding: 6px;
+    position: relative;
+    bottom: 50px;
+    left: 35%;
+}
+
+.su-btn:hover {
+    color: #2ac50b;
 }
 
 a {
@@ -257,10 +263,6 @@ a {
 
 .social-links a {
     font-size: 160%;
-}
-
-.su-btn a:hover {
-    color: #2ac50b;
 }
 
 /* Walks Page */
@@ -660,8 +662,8 @@ a {
 
     .su-btn {
         font-size: 140%;
-        margin-left: 440px;
         padding: 6px;
+        bottom: 10px;
     }
 
     /* walks page */
@@ -968,7 +970,7 @@ a {
 
     .su-btn {
         font-size: 80%;
-        margin-left: 110px;
+        bottom: 10px;
         padding: 6px;
     }
 

@@ -313,6 +313,13 @@ The layout and structure of the website is set in a familiar and user friendly w
 
 <br>
 
+## Validation 
+
+<hr>
+
+### HTML Validation 
+
+
 ## Testing User Stories
 
 1. As a first time user, I want to know what Country Walks is about.
