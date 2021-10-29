@@ -550,6 +550,13 @@ This website was tested on the following browsers:
 
 </details>
 
+## Bugs 
+
+- Group walks page has a larger gap between the next group walks section and the footer. Attempted to fix, but no success yet. Working on fix. 
+- About Us image gallery has an odd number of images so when the media queriess kick and reduce column count to 2 it presents a stand alone image at the bottom of the page. Looking at reducing number of images or adding an addtional one, though this may present issues for viewing at larger screen sizes.
+- Relating to the first issue, Firefox displays the web pages with not enough gap between the footer and the section that lives above it. Working on fix.
+
+
 ## Deployment 
 
 
