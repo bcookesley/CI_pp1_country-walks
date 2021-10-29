@@ -848,6 +848,7 @@ a {
 
     .newsletter-su {
         width: 80%;
+        margin: 40px 85px;
     }
 }
 
@@ -1121,6 +1122,7 @@ a {
 
     .newsletter-su {
         width: 100vw;
+        margin: 20px 0;
     }
 
     .newsletter-su h3 {
