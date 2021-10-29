@@ -374,6 +374,10 @@ WAVE WebAIM was used to ensure the website meets accessibility standards. All pa
 
 <br>
 
+## Performance 
+
+Google Lighthouse in Chrome Developed tools was used to test the performance of the website.
+
 ## Testing User Stories
 
 1. As a first time user, I want to know what Country Walks is about.
