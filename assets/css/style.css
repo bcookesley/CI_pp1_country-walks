@@ -482,7 +482,7 @@ a {
     width: 100%;
     height: 1000px;
     overflow: hidden;
-    margin: 5px 0 8px 0;
+    margin: 5px 0 100px 0;
 }
 
 #gw-section div {
@@ -506,7 +506,7 @@ a {
     border: 1px solid black;
     background-color: #253019;
     position: relative;
-    margin: 0 auto;
+    margin: 0 250px 150px;
     margin-top: 50px;
     padding: 2%;
 }
