@@ -376,6 +376,8 @@ WAVE WebAIM was used to ensure the website meets accessibility standards. All pa
 
 ## Performance 
 
+<hr>
+
 Google Lighthouse in Chrome Developed tools was used to test the performance of the website.
 
 <details><summary>Home</summary>
@@ -395,6 +397,13 @@ Google Lighthouse in Chrome Developed tools was used to test the performance of 
 </details>
 
 <br>
+
+## Performance Tests on Various Devices
+
+In addition to the tests done on Chrome Developer tools this website was also tested on:
+
+- Samsung S10/S20
+- Apple iPad
 
 ## Browser Compatability 
 
@@ -589,6 +598,8 @@ This website was tested on the following browsers:
 <br>
 
 ## Deployment 
+
+<hr>
 
 This website was deployed using GitHub Pages following these steps:
 
