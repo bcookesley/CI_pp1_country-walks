@@ -605,6 +605,7 @@ Images were sourced from Unsplash and credits to the photographers are detailed 
 - Code Institute - Love Running project: Some code was inspired and may appear very similar in some sections of HTML and CSS code
 - [Font Awesome](https://fontawesome.com/) for the icons used
 - [Google](https://www.google.co.uk/) for the fonts and maps
+- [Ana](https://github.com/4n4ru) for the references 
 
 
 ## Acknowledgements
