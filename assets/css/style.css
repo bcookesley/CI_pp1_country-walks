@@ -245,7 +245,7 @@ footer {
     text-align: center;
 }
 
-.about-us > p {
+.about-us>p {
     font-size: 90%;
     padding: 0 40px 0 40px;
 }
@@ -328,7 +328,7 @@ a {
     padding-bottom: 10px;
 }
 
-.text-mp > p {
+.text-mp>p {
     font-size: 90%;
 }
 
@@ -366,14 +366,14 @@ a {
     height: 300px;
 }
 
-.sw-info > div > iframe {
+.sw-info>div>iframe {
     width: 250px;
     height: 250px;
     border-radius: 50%;
     margin-top: 20px;
 }
 
-.sw-info > div > img {
+.sw-info>div>img {
     margin-bottom: 230px;
 }
 
@@ -393,7 +393,7 @@ a {
     padding-bottom: 10px;
 }
 
-.text-mw > p {
+.text-mw>p {
     font-size: 90%;
 }
 
@@ -413,7 +413,7 @@ a {
     padding-bottom: 10px;
 }
 
-.text-lw > p {
+.text-lw>p {
     font-size: 90%;
 }
 
@@ -433,7 +433,7 @@ a {
     padding-bottom: 10px;
 }
 
-.text-pw > p {
+.text-pw>p {
     font-size: 90%;
 }
 
@@ -555,12 +555,13 @@ a {
 
 /* 404 page */
 
-main > h1, h2 {
+main>h1,
+h2 {
     text-align: center;
     margin-top: 40px;
 }
 
-main > img {
+main>img {
     height: 600px;
     margin: 40px 420px;
 }
@@ -602,7 +603,7 @@ main > img {
     }
 
 
-     #head-text {
+    #head-text {
         font-size: 220%;
         margin-left: 5px;
     }
@@ -722,9 +723,9 @@ main > img {
         margin-top: 30px;
     }
 
-    /* Walks list titles */ 
+    /* Walks list titles */
 
-    #walks-list > div > h3 {
+    #walks-list>div>h3 {
         font-size: 120%;
         margin-left: 20px;
     }
@@ -806,7 +807,7 @@ main > img {
         text-align: center;
     }
 
-    /* Pub Walks section */ 
+    /* Pub Walks section */
 
     .text-pw {
         width: 100%;
@@ -837,13 +838,13 @@ main > img {
         margin: 0 50px;
     }
 
-    .image-left > div iframe {
+    .image-left>div iframe {
         width: 100px;
         height: 100px;
         margin: 0;
     }
 
-    .sw-info > div > iframe {
+    .sw-info>div>iframe {
         width: 100px;
         height: 100px;
         margin: 0 80px;
@@ -867,12 +868,12 @@ main > img {
         height: 300px;
     }
 
-    #gw-section > div > h3 {
+    #gw-section>div>h3 {
         font-size: 160%;
         margin-top: 30px;
     }
 
-    #gw-section > div > p {
+    #gw-section>div>p {
         font-size: 110%;
         margin-top: 20px;
     }
@@ -892,7 +893,7 @@ main > img {
 
     /* 404 page */
 
-    main > img {
+    main>img {
         height: 300px;
         width: 100vw;
         margin: 30px 0;
@@ -1113,13 +1114,13 @@ main > img {
         margin: 0 10px;
     }
 
-    .image-left > div iframe {
+    .image-left>div iframe {
         width: 100px;
         height: 100px;
         margin: 0 40px;
     }
 
-    .sw-info > div > iframe {
+    .sw-info>div>iframe {
         width: 100px;
         height: 100px;
         margin: 0 80px;
@@ -1127,7 +1128,7 @@ main > img {
 
     /* headings */
 
-    #walks-list > div > h3 {
+    #walks-list>div>h3 {
         font-size: 80%;
         margin-left: 20px;
     }
@@ -1167,12 +1168,12 @@ main > img {
         padding: 25px;
     }
 
-    #gw-section > div > h3 {
+    #gw-section>div>h3 {
         font-size: 80%;
         margin-top: 0;
     }
 
-    #gw-section > div > p {
+    #gw-section>div>p {
         font-size: 60%;
         margin: 10px
     }
@@ -1190,7 +1191,7 @@ main > img {
         font-size: 100%;
     }
 
-    .newsletter-su > p {
+    .newsletter-su>p {
         font-size: 60%;
     }
 
@@ -1198,7 +1199,7 @@ main > img {
         width: 90%;
         font-size: 100%;
     }
-    
+
     .label-lastn {
         font-size: 80%;
     }
@@ -1209,7 +1210,7 @@ main > img {
 
     /* 404 page */
 
-    main > img {
+    main>img {
         height: 300px;
         width: 100vw;
         margin: 30px 0;
