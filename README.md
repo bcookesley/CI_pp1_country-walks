@@ -317,10 +317,10 @@ The W3C Markup Validation service was used to validate all 5 pages of HTML code.
 The W3C CSS Validation Service was used to validate the CSS code by URL and direct input. All CSS code showed to pass all code by URL and direct input.
 
 <details><summary>Whole Page</summary>
-<img src="validations/css/css-validation-url.png">
+<img src="docs/validations/css/css-validation-url.png">
 </details>
 <details><summary>Direct Input (style.css)</summary>
-<img src="validations/css/css-validation-direct-input.png">
+<img src="docs/validations/css/css-validation-direct-input.png">
 </details>
 
 ### Accessibility 
@@ -328,19 +328,19 @@ The W3C CSS Validation Service was used to validate the CSS code by URL and dire
 WAVE WebAIM was used to ensure the website meets accessibility standards. All pages found no errors, but some warnings on a couple of pages due to a stylistic choice made to not include headings on a photos section.
 
 <details><summary>Home</summary>
-<img src="validations/accessibility/accessibillity-check-home-page.png">
+<img src="docs/validations/accessibility/accessibillity-check-home-page.png">
 </details>
 <details><summary>About Us</summary>
-<img src="validations/accessibility/accessibility-check-about-page.png">
+<img src="docs/validations/accessibility/accessibility-check-about-page.png">
 </details>
 <details><summary>Walks</summary>
-<img src="validations/accessibility/accessibility-check-walks-page.png">
+<img src="docs/validations/accessibility/accessibility-check-walks-page.png">
 </details>
 <details><summary>Group Walks</summary>
-<img src="validations/accessibility/accessibility-check-group-walks-page.png">
+<img src="docs/validations/accessibility/accessibility-check-group-walks-page.png">
 </details>
 <details><summary>Sign Up</summary>
-<img src="validations/accessibility/accessibility-check-sign-up-page.png">
+<img src="docs/validations/accessibility/accessibility-check-sign-up-page.png">
 </details>
 
 ## Performance 
