@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&display=swap');
 
+
+/* Body */
+
 * {
     margin: 0;
     padding: 0;
@@ -53,6 +56,7 @@ body {
 
 
 /* Hero Image and carousel */
+
 .carousel .carousel-item img {
     height: 650px;
     object-fit: cover;
@@ -92,6 +96,10 @@ body {
 
     margin: 0 auto;
 }
+
+/* Text overlay on hero image */
+
+/* Class code taken from Love Running project */
 
 .text-overlay {
     font-size: 130%;
@@ -288,6 +296,10 @@ a {
     color: #253019;
 }
 
+/* Different walks section */
+
+/* Most popular */
+
 #most-popular {
     margin-top: 4%;
 }
@@ -308,6 +320,19 @@ a {
     position: relative;
 }
 
+.text-mp h3 {
+    font-size: 160%;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.text-mp > p {
+    font-size: 90%;
+}
+
+/* Short walks */
+
 .text-sw {
     width: 50%;
     float: right;
@@ -326,16 +351,6 @@ a {
     font-size: 90%;
 }
 
-.text-mp h3 {
-    font-size: 160%;
-    text-decoration: underline;
-    padding-top: 20px;
-    padding-bottom: 10px;
-}
-
-.text-mp > p {
-    font-size: 90%;
-}
 
 .sw-info {
     border: 1px solid #253019;
@@ -361,6 +376,8 @@ a {
     margin-bottom: 230px;
 }
 
+/* Medium Walks */
+
 .text-mw {
     width: 50%;
     float: right;
@@ -378,6 +395,8 @@ a {
 .text-mw > p {
     font-size: 90%;
 }
+
+/* Long Walks */
 
 .text-lw {
     width: 50%;
@@ -397,6 +416,8 @@ a {
     font-size: 90%;
 }
 
+/* Pub Walks */
+
 .text-pw {
     width: 50%;
     float: right;
@@ -414,6 +435,8 @@ a {
 .text-pw > p {
     font-size: 90%;
 }
+
+/* Images and maps for walks list section - image-left class inspired by Love Running project */
 
 .image-left img {
     width: 300px;
@@ -438,6 +461,8 @@ a {
     border: 2px solid #253019;
 }
 
+/* In page navigation on walks list */
+
 .inpage-nav {
     text-align: center;
     margin-top: 50px;
@@ -455,14 +480,9 @@ a {
     color: #2ac50b;
 }
 
-/* Different Walks section */
-
-
-
-
 /* Group walks page */
 
-/* group walks info */
+/* group walks info and images */
 
 .page-heading {
     background-color: #E7DE8A;
@@ -583,6 +603,8 @@ a {
         font-size: 100%;
     }
 
+    /* Next big  group walk on home page */
+
     #nxt-big-event {
         height: 700px;
         margin-top: 150px;
@@ -606,9 +628,10 @@ a {
         font-size: 80%;
     }
 
+    /* Footer and social links */
+
     .social-links {
         margin-top: 15px;
-        ;
     }
 
     footer {
@@ -639,6 +662,8 @@ a {
         font-size: 140%;
         padding-bottom: 20px;
     }
+
+    /* About page gallery */
 
     #photos {
         column-count: 2;
@@ -978,6 +1003,8 @@ a {
 
     /* walks page */
 
+    /* Information and text content */
+
     .mp-info {
         height: 300px;
     }
@@ -1048,6 +1075,8 @@ a {
         font-size: 60%;
     }
 
+    /* Images and maps */
+
     .image-left {
         height: 100px;
     }
@@ -1070,6 +1099,8 @@ a {
         margin: 0 80px;
     }
 
+    /* headings */
+
     #walks-list > div > h3 {
         font-size: 80%;
         margin-left: 20px;
@@ -1079,6 +1110,8 @@ a {
         font-size: 60%;
         margin-left: 20px;
     }
+
+    /* Inpage navigation */
 
     .inpage-nav a {
         font-size: 50%;
