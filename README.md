@@ -556,8 +556,7 @@ This website was tested on the following browsers:
 
 <details><summary>Screenshots</summary>
 
-<img src="docs/user-story-testing/walks-page-nav.png">
-<img src="docs/features/walks-list.png">
+<img src="docs/user-story-testing/head-nav-.png">
 
 </details>
 
