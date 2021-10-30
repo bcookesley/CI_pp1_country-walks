@@ -898,6 +898,7 @@ a {
 
     .txt-header-home h2 {
         font-size: 65%;
+        margin: 10px 5px;
     }
 
     #nxt-big-event {
@@ -908,7 +909,7 @@ a {
     #nxt-big-event div {
         width: 100%;
         height: 200px;
-        padding: 30px;
+        padding: 5px;
     }
 
     #nxt-big-event h2 {
@@ -976,6 +977,7 @@ a {
 
     .text-overlay h2 {
         font-size: 60%;
+        margin: 5px;
     }
 
     #photos {
@@ -1142,6 +1144,7 @@ a {
 
     #gw-section div {
         height: 133px;
+        padding: 25px;
     }
 
     #gw-section > div > h3 {
