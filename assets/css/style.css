@@ -1016,7 +1016,7 @@ a {
     }
 
     .text-mp h3 {
-        font-size: 80%;
+        font-size: 70%;
     }
 
     .text-mp p {
@@ -1029,11 +1029,11 @@ a {
     }
 
     .text-sw h3 {
-        font-size: 80%;
+        font-size: 70%;
     }
 
     .text-sw p {
-        font-size: 60%;
+        font-size: 50%;
         margin: -8px 0;
     }
 
@@ -1048,7 +1048,7 @@ a {
     }
 
     .text-lw h3 {
-        font-size: 80%;
+        font-size: 70%;
     }
 
     .text-pw {
@@ -1057,23 +1057,23 @@ a {
     }
 
     .text-pw h3 {
-        font-size: 80%;
+        font-size: 70%;
     }
 
     .text-pw p {
-        font-size: 60%;
+        font-size: 50%;
     }
 
     .text-lw p {
-        font-size: 60%;
+        font-size: 50%;
     }
 
     .text-mw h3 {
-        font-size: 80%;
+        font-size: 70%;
     }
 
     .text-mw p {
-        font-size: 60%;
+        font-size: 50%;
     }
 
     /* Images and maps */
