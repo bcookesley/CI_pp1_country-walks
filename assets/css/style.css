@@ -1186,7 +1186,6 @@ a {
 
 }
 
-.error-msg {
-    height: 400px;
-    width: 400px;
+main > h1, h2 {
+    text-align: center;
 }
