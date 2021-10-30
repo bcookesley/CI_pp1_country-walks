@@ -613,6 +613,7 @@ Images were sourced from Unsplash and credits to the photographers are detailed 
 - Walks Page images - [Robert Cook](https://unsplash.com/photos/TKMUt6sFQyw) (Pub Walk), [Annie Spratt](https://unsplash.com/photos/GPCgLbBevQg) (Long Walk), [Katie McBroom](https://unsplash.com/photos/-Tvjzjcji2k) (Medium Walk), [Greg Wilson](https://unsplash.com/photos/aGutO88lNEI) (Short Walk), [Nick Fewings](https://unsplash.com/photos/nyI87MyygaA) (Most Popular) - (Unsplash)
 - Sign Up page hero image - [Luca Micheli](https://unsplash.com/photos/r9RW20TrQ0Y) (Unsplash)
 - [404 page](https://github.com/bcookesley/CI_pp1_country-walks/blob/main/404.html) Image supplied by [Freepik](https://www.freepik.com/)
+- [Favicon](https://favicon.io/) [Image](https://raw.githubusercontent.com/bcookesley/CI_pp1_country-walks/main/assets/images/favicon.ico)
 
 
 ### Code 
