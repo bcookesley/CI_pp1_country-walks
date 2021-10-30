@@ -98,6 +98,7 @@
 9. As a site owner, I want users to be able to engage with a community of people who like to walk
 10. As a site owner, I want users to be able to contact someone
 11. As a site owner, I want users to be able to find and see walking routes they could try for themselves
+12. As a site owner I don't want users to use the back button on the browser while on the website
 
 
 ## Design
@@ -546,6 +547,20 @@ This website was tested on the following browsers:
 <img src="docs/features/walks-list.png">
 
 </details>
+
+12. As a site owner I don't want users to use the back button on the browser while on the website
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Site heading and nav bar | Navigate to the heading and nav bar at the top of the page | All links and navs keep you in the site | Worked as expected |
+
+<details><summary>Screenshots</summary>
+
+<img src="docs/user-story-testing/walks-page-nav.png">
+<img src="docs/features/walks-list.png">
+
+</details>
+
 
 ## Bugs 
 
