@@ -566,7 +566,7 @@ This website was tested on the following browsers:
 - Group walks page has a larger gap between the next group walks section and the footer. Attempted to fix, but no success yet. Working on fix. 
 - About Us image gallery has an odd number of images so when the media queriess kick and reduce column count to 2 it presents a stand alone image at the bottom of the page. Looking at reducing number of images or adding an addtional one, though this may present issues for viewing at larger screen sizes.
 - Relating to the first issue, Firefox displays the web pages with not enough gap between the footer and the section that lives above it. Working on fix.
-- 404 page doesn't display styles for CSS or image. File path appears correct - can't find fix
+- 404 is intermitently working. Not linking to stylesheet at times - can't fix.
 - Using inspect mode on my computer to view screen responsiveness seems to work fine, but have seen some elements not display correctly on others machine when using this mode. Tested on smaller mobile screens and seems fine, but inspect shows something different for other people. Can't find fix for it, but looks correct from my inspect mode and screen.
 
 
