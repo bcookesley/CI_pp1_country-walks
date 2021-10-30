@@ -1192,6 +1192,6 @@ main > h1, h2 {
 }
 
 main > img {
-    width: 100vw;
-    height: 400px;
+    height: 600px;
+    margin: 40px 420px;
 }
